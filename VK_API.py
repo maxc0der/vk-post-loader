@@ -1,4 +1,5 @@
 import requests
+import time
 
 
 class VK:
@@ -25,7 +26,7 @@ class VK:
         while True:
             response = self.get('wall.get', {'owner_id': source_id, 'count': 100, 'offset': offset})
             offset = offset + 100
-            if 'error' not in response:
+            if 'error' not in response and not isinstance(response, str):
                 items = response['items']
                 if response['items'][1]['date'] < start_date:  # 1-st item here, because 0 can be pinned post
                     break
@@ -38,6 +39,8 @@ class VK:
                 if offset >= items_count:
                     break
             else:
+                print(response)
                 break
+            time.sleep(0.5)
 
         return result

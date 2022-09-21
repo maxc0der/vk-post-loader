@@ -40,6 +40,4 @@ class VK:
             else:
                 break
 
-        print(len(result))
-
-
+        return result

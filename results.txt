@@ -1,0 +1,2045 @@
+[
+    {
+        "id": 7219304,
+        "from_id": -112510789,
+        "owner_id": -112510789,
+        "date": 1663785299,
+        "type": "post",
+        "marked_as_ads": 0,
+        "post_type": "post",
+        "text": "Интернет-решалы, мастера отмаз и прочее жульё решили слегка подзаработать на частичной мобилизации — в четыре раза подняли цены на оформление военников, загранников и доков о негодности. С полной предоплатой и без гарантии результата. \n\nС самого утра интернеты заваливало объявлениями о помощи в уклонении от потенциальной мобилизации — для студентов, детей, девочек, дедушек и всех желающих. Предлагали не ждать людей в погонах на пороге, откосить и забыть. Только за свои услуги просили 150 тысяч рублей. Ещё вариант — оперативно оформить загранпаспорт за 80к. В стоимость входит грамотное заполнение документа и помощь в доставке его в МФЦ. \n\nГарантий при этом — ноль. Некоторые честно пишут, что оказывают лишь информационную поддержку, — мелким шрифтом в самом дальнем углу. Остальные — надеются на самых впечатлительных, которые поверят на слово, заплатят и попадут в ЧС.",
+        "attachments": [
+            {
+                "type": "photo",
+                "photo": {
+                    "album_id": -7,
+                    "date": 1663785299,
+                    "id": 457874399,
+                    "owner_id": -112510789,
+                    "access_key": "5f064dc1d860d152e8",
+                    "sizes": [
+                        {
+                            "height": 75,
+                            "url": "https://sun1.userapi.com/sun1-98/s/v1/ig2/s8jQGF4K_POr7KGYaA3ZsySbgEJImnzECMhIZIi9pN6qkbO-0rFJGjsgydzHDgQVGZ-niI6QomCiSg9vOL_bAafI.jpg?size=75x75&quality=95&type=album",
+                            "type": "s",
+                            "width": 75
+                        },
+                        {
+                            "height": 130,
+                            "url": "https://sun1.userapi.com/sun1-98/s/v1/ig2/wbymGNUPVxP1J7rlFxuiC4qN3sMqH-LPKqvFnL4NKx5PJx5H5cnLEEufEmpDSBZIOj8Ban5g38akLoH7J75pQc5r.jpg?size=130x130&quality=95&type=album",
+                            "type": "m",
+                            "width": 130
+                        },
+                        {
+                            "height": 604,
+                            "url": "https://sun1.userapi.com/sun1-98/s/v1/ig2/hf-hZsYcYlfeCSmrb-86e3eoofl7bZ8q3I0DSUyCLlEd-aRbgbx1DOashGQ-VaJNhdX0tAyO4WD_LHOsy9lZFB49.jpg?size=604x604&quality=95&type=album",
+                            "type": "x",
+                            "width": 604
+                        },
+                        {
+                            "height": 807,
+                            "url": "https://sun1.userapi.com/sun1-98/s/v1/ig2/i1yNvWaHdjvTT_5H00xIT6KYRkNsnWF0wVJQdQ8U0S5Sco_I0deWcgY5KGanV7JOUU3vKF74yFnkBgzQjVdI8u0R.jpg?size=807x807&quality=95&type=album",
+                            "type": "y",
+                            "width": 807
+                        },
+                        {
+                            "height": 1080,
+                            "url": "https://sun1.userapi.com/sun1-98/s/v1/ig2/oGcSvSm6oonfvWFYmCsGMdQP7Itwh0U1uu9kp994eK8owWAyplveMoCGr5NdNHcsnEBKi2cus266nO6XREHhivR1.jpg?size=1080x1080&quality=95&type=album",
+                            "type": "z",
+                            "width": 1080
+                        },
+                        {
+                            "height": 130,
+                            "url": "https://sun1.userapi.com/sun1-98/s/v1/ig2/wbymGNUPVxP1J7rlFxuiC4qN3sMqH-LPKqvFnL4NKx5PJx5H5cnLEEufEmpDSBZIOj8Ban5g38akLoH7J75pQc5r.jpg?size=130x130&quality=95&type=album",
+                            "type": "o",
+                            "width": 130
+                        },
+                        {
+                            "height": 200,
+                            "url": "https://sun1.userapi.com/sun1-98/s/v1/ig2/ngpb3A-0eT5d9MIdRmdwg5clSfbDMwTvQBANn4GXZvHdGQfYkOS3nJzJh1OwM-JXHFs-0l98OHCYMlCIsjFLDPfG.jpg?size=200x200&quality=95&type=album",
+                            "type": "p",
+                            "width": 200
+                        },
+                        {
+                            "height": 320,
+                            "url": "https://sun1.userapi.com/sun1-98/s/v1/ig2/Gf-kyvsF6CnUxJj1i8-gt3s4MYa8Oag8wUmKeYcAU9u7KaTPA-5l0svLuwwvj8n6ne0UIOPtsssAQ_RDJLSvxZMg.jpg?size=320x320&quality=95&type=album",
+                            "type": "q",
+                            "width": 320
+                        },
+                        {
+                            "height": 510,
+                            "url": "https://sun1.userapi.com/sun1-98/s/v1/ig2/ZGKm9NjdeHnX2SD-k2n3xW8XbygZcoLVal7T2e4vyeaN6MFfsB748H_cQk06fo5-JCx7qceZ5w4Hr514sR39wvKi.jpg?size=510x510&quality=95&type=album",
+                            "type": "r",
+                            "width": 510
+                        }
+                    ],
+                    "text": "",
+                    "user_id": 100
+                }
+            },
+            {
+                "type": "photo",
+                "photo": {
+                    "album_id": -7,
+                    "date": 1663785299,
+                    "id": 457874400,
+                    "owner_id": -112510789,
+                    "access_key": "e1c61cca044be753ce",
+                    "sizes": [
+                        {
+                            "height": 75,
+                            "url": "https://sun1.userapi.com/sun1-18/s/v1/ig2/3M79aqeob3sgu5yC9_JimTzmqcxnCd_-R5PFzdQtcjooeGAWwLQx8Y8ADNsO2LJlXBpjPmLY4TD0IFU8HoxyBAL6.jpg?size=75x75&quality=95&type=album",
+                            "type": "s",
+                            "width": 75
+                        },
+                        {
+                            "height": 130,
+                            "url": "https://sun1.userapi.com/sun1-18/s/v1/ig2/iuM0j7hdiDITS5S6Uu0qglwo2avkx-VscWVPLxMoPQXt1siRXf_4uBJhmOhtSeECqkEA6tIJUbAho5XjUm2drU8s.jpg?size=130x130&quality=95&type=album",
+                            "type": "m",
+                            "width": 130
+                        },
+                        {
+                            "height": 604,
+                            "url": "https://sun1.userapi.com/sun1-18/s/v1/ig2/RuLGgVmzhFA0W0SZuJtzbdE6Cyb2MffKfs3mdVs47tkQ0_wKCjabx5iRrtdjPRwFmJ7OHMz_9XxuCWm3MCLRGdBy.jpg?size=604x604&quality=95&type=album",
+                            "type": "x",
+                            "width": 604
+                        },
+                        {
+                            "height": 807,
+                            "url": "https://sun1.userapi.com/sun1-18/s/v1/ig2/dOL-RmQrDvSgh9vtpSeEa0Ru6h-IxRIai7uA5wvSeNm9qoHspZjC4IyVQ9dDgpGFuqlYT7skp_XrC9xhNyts9PXi.jpg?size=807x807&quality=95&type=album",
+                            "type": "y",
+                            "width": 807
+                        },
+                        {
+                            "height": 1080,
+                            "url": "https://sun1.userapi.com/sun1-18/s/v1/ig2/pIbNA3U2US-1ypzG0arUedBg_9dJRU-D0sa5LJgYPjjaktF2GJeHil9fu1_tAi1U2kkM9qshedgOoAXwgdUoRATQ.jpg?size=1080x1080&quality=95&type=album",
+                            "type": "z",
+                            "width": 1080
+                        },
+                        {
+                            "height": 130,
+                            "url": "https://sun1.userapi.com/sun1-18/s/v1/ig2/iuM0j7hdiDITS5S6Uu0qglwo2avkx-VscWVPLxMoPQXt1siRXf_4uBJhmOhtSeECqkEA6tIJUbAho5XjUm2drU8s.jpg?size=130x130&quality=95&type=album",
+                            "type": "o",
+                            "width": 130
+                        },
+                        {
+                            "height": 200,
+                            "url": "https://sun1.userapi.com/sun1-18/s/v1/ig2/TDXyszEuOYF94OOcy8qv7t3v5Mr6Zc74F1arHtEoUtE03dKaJvWNBlU7xeaCJlOGtGS5bmMW2rk1DQB23Eq-UV9t.jpg?size=200x200&quality=95&type=album",
+                            "type": "p",
+                            "width": 200
+                        },
+                        {
+                            "height": 320,
+                            "url": "https://sun1.userapi.com/sun1-18/s/v1/ig2/YmKBCU-1fbNH_yPVQS-R5yHa4hMUhzxpkJbqsoSakwiBkhengBUI9XV22AObo62wMbdZolq2bR82buMXAZZveMeg.jpg?size=320x320&quality=95&type=album",
+                            "type": "q",
+                            "width": 320
+                        },
+                        {
+                            "height": 510,
+                            "url": "https://sun1.userapi.com/sun1-18/s/v1/ig2/43gx7Rn-5_pXHFzVvdC6VWd3IbjCWxna40LBh2TcHFnwZWFoAYV7WO-LTsb_YvfLX2O6R6CY2ORdmLCPWQHCi17G.jpg?size=510x510&quality=95&type=album",
+                            "type": "r",
+                            "width": 510
+                        }
+                    ],
+                    "text": "",
+                    "user_id": 100
+                }
+            }
+        ],
+        "post_source": {
+            "type": "vk"
+        },
+        "comments": {
+            "can_post": 1,
+            "count": 512,
+            "groups_can_post": true
+        },
+        "likes": {
+            "can_like": 1,
+            "count": 393,
+            "user_likes": 0,
+            "can_publish": 1
+        },
+        "reposts": {
+            "count": 492,
+            "user_reposted": 0
+        },
+        "views": {
+            "count": 384698
+        },
+        "ads_easy_promote": {
+            "type": 2,
+            "text": "Что-то пошло не так.",
+            "label_text": "",
+            "button_text": "",
+            "is_ad_not_easy": false
+        },
+        "hash": "4-e3SFpJoUNRTV7SIZnUNYfF7Iiw"
+    },
+    {
+        "id": 7218858,
+        "from_id": -112510789,
+        "owner_id": -112510789,
+        "date": 1663783161,
+        "type": "post",
+        "marked_as_ads": 0,
+        "post_type": "post",
+        "text": "Глава МИД РФ Сергей Лавров дал интервью изданию Newsweek. Собрали главное:\n\n— ДНР, ЛНР, Запорожская и Херсонская области вправе воспользоваться правом на самоопределение в соответствии с уставом ООН.\n\n— Специальная военная операция на Украине будет продолжаться, пока её задачи не будут выполнены, сколько бы времени это ни заняло.\n\n— Коллективный Запад во главе с США открыто стремится победить Россию \"на поле боя\" на Украине.\n\n— США и Британия испугались, что Россия и Украина договорятся, поэтому запретили Киеву вести переговоры с Москвой.\n\n— Оружие стран НАТО используется для убийства мирных жителей на сопредельных с Украиной территориях России.\n\n— Москва с уважением отнесется к выбору жителей ДНР, ЛНР, Запорожской и Херсонской областей на референдумах.\n\n— Москва фиксирует отрывочные сигналы из Вашингтона и лично от президента США Джо Байдена относительно возобновления диалога по Договору по сокращению стратегических наступательных вооружений, но что за ними стоит, пока не ясно.\n\n— Россия продолжит адаптироваться к новым финансовым реалиям, вместе с партнёрами будет снижать долю доллара США во взаимной торговле.",
+        "attachments": [
+            {
+                "type": "photo",
+                "photo": {
+                    "album_id": -7,
+                    "date": 1663783161,
+                    "id": 457874371,
+                    "owner_id": -112510789,
+                    "access_key": "d88e871f1948fed05e",
+                    "post_id": 7218858,
+                    "sizes": [
+                        {
+                            "height": 46,
+                            "url": "https://sun1.userapi.com/sun1-94/s/v1/ig2/jM-5hVlMZRBxbMyarbZOFEyJvh4Cf1DaJLRP-BwuXzTKsH0iGVWLI-UyGq135SLAlxvus7x0yrEaJBiwllC6qv_t.jpg?size=75x46&quality=95&type=album",
+                            "type": "s",
+                            "width": 75
+                        },
+                        {
+                            "height": 80,
+                            "url": "https://sun1.userapi.com/sun1-94/s/v1/ig2/Z9-YKI6jPnjB5Jh1iYL2JYPjHXbG1oGDc-rT6Wx1l15AP2VVr1PoGxWH3a62qO2Sy4yCWL1WmYj4O60kJ1_33ybm.jpg?size=130x80&quality=95&type=album",
+                            "type": "m",
+                            "width": 130
+                        },
+                        {
+                            "height": 374,
+                            "url": "https://sun1.userapi.com/sun1-94/s/v1/ig2/WHpIyV4-XAiAcHKkLEWML9-Pi6F4IN9AQlQVd2dLmNdwILljbMnSNERqYteHH2fopREJl3P3t2raUVpi6jvt4KxZ.jpg?size=604x374&quality=95&type=album",
+                            "type": "x",
+                            "width": 604
+                        },
+                        {
+                            "height": 499,
+                            "url": "https://sun1.userapi.com/sun1-94/s/v1/ig2/nD14-9uYJXM-qGlrwX0rm5K_FLMmc0DzqhRwbQA4HmWnQ2TY1B9BMogpu5BCtvHNpdyfhe3c4Run8rnzgL4CTteX.jpg?size=807x499&quality=95&type=album",
+                            "type": "y",
+                            "width": 807
+                        },
+                        {
+                            "height": 730,
+                            "url": "https://sun1.userapi.com/sun1-94/s/v1/ig2/TnCFHRZUPLle9cn_7Hf9LCCp2dyYeZScAL2dApbNhs8TihGNKjtE8H7ulK6wcylDpb7dkrjhzy2j231Gdh1j6bh8.jpg?size=1180x730&quality=95&type=album",
+                            "type": "z",
+                            "width": 1180
+                        },
+                        {
+                            "height": 87,
+                            "url": "https://sun1.userapi.com/sun1-94/s/v1/ig2/6jGwa2Wha1O3qd2D7HXlSD9O8SSULvPzH9XLqu_l6mFHpd8LtZICP__PtIIQ8inWUygIDghseKsWebPFKNDLwFd6.jpg?size=130x87&quality=95&crop=44,0,1091,730&type=album",
+                            "type": "o",
+                            "width": 130
+                        },
+                        {
+                            "height": 133,
+                            "url": "https://sun1.userapi.com/sun1-94/s/v1/ig2/8lYSlp80VaFm4UezOnbdZDAHbM_mhQSgdf-Z0T_GxJE0ygf92AYxQ1mYQour6ZVWBTj808azXo2e7NWG0Ta4xEJi.jpg?size=200x133&quality=95&crop=41,0,1098,730&type=album",
+                            "type": "p",
+                            "width": 200
+                        },
+                        {
+                            "height": 213,
+                            "url": "https://sun1.userapi.com/sun1-94/s/v1/ig2/fMPnlAEHWhYsR8Z621PmE5uoYqrAs-Bmb-Yq2fwayT-dUJyERSAa-wwaQwBARWxntHepHv4qpO9Qf7Cg7BvHKoVF.jpg?size=320x213&quality=95&crop=41,0,1097,730&type=album",
+                            "type": "q",
+                            "width": 320
+                        },
+                        {
+                            "height": 340,
+                            "url": "https://sun1.userapi.com/sun1-94/s/v1/ig2/c_Fc_2Vbt9iFxeemE-wsTt8HS8DJUExXycxnsspti9IigmUG-RhCIIYz0vJv7UFHHwebRTHN6T8qBC5g_CVb6ycG.jpg?size=510x340&quality=95&crop=42,0,1095,730&type=album",
+                            "type": "r",
+                            "width": 510
+                        }
+                    ],
+                    "text": "",
+                    "user_id": 100
+                }
+            }
+        ],
+        "post_source": {
+            "type": "vk"
+        },
+        "comments": {
+            "can_post": 1,
+            "count": 915,
+            "groups_can_post": true
+        },
+        "likes": {
+            "can_like": 1,
+            "count": 1300,
+            "user_likes": 0,
+            "can_publish": 1
+        },
+        "reposts": {
+            "count": 198,
+            "user_reposted": 0
+        },
+        "views": {
+            "count": 331131
+        },
+        "ads_easy_promote": {
+            "type": 2,
+            "text": "Что-то пошло не так.",
+            "label_text": "",
+            "button_text": "",
+            "is_ad_not_easy": false
+        },
+        "hash": "fsDCsylM2ZIXpIGrYfdAm02HCGns"
+    },
+    {
+        "id": 7216961,
+        "from_id": -112510789,
+        "owner_id": -112510789,
+        "date": 1663773677,
+        "type": "post",
+        "marked_as_ads": 0,
+        "post_type": "post",
+        "text": "Владимир Путин на 1160-летие Великого Новгорода: \n \n— За прошедшие 1000 лет наше государство переживало разные эпохи. И каждый сложный период завершался возрождением Отечества. \n \n— Все государственные деятели, труженики, воины, подвижники и святые сделали Россию мировой державой. Определили её судьбу. И всё это началось в Новгороде. \n \n— Современная Россия — наследница древней святой Руси. \n \n— Мы обязаны не только беречь, но и продолжать традиции. На каждом из нас лежит ответственность за то, чтобы защитить и укрепить нашу любимую Родину. \n \n— Быть патриотом — суть, природа и характер российского народа. В ходе СВО наши солдаты, офицеры и добровольцы проявляют высшие человеческие качества. Ради мирного неба для наших детей и родной страны. \n \n— Мы никогда не утратим свой суверенитет. Это гарантия свободы каждого. В нашей традиции человек не может чувствовать себя свободным, если несвободен его народ. \n \n— Быть частью многообразной российской цивилизации — это счастье. Но и ответственность, и долг. Мы будем бороться за свою культуру и суверенитет во имя наших предков и наших потомков.",
+        "attachments": [
+            {
+                "type": "video",
+                "video": {
+                    "access_key": "587ebc7511e477e314",
+                    "can_comment": 1,
+                    "can_like": 1,
+                    "can_repost": 1,
+                    "can_subscribe": 1,
+                    "can_add_to_faves": 1,
+                    "can_add": 1,
+                    "comments": 5,
+                    "date": 1663773665,
+                    "description": "",
+                    "duration": 21,
+                    "photo_130": "https://i.mycdn.me/getVideoPreview?id=3063149038129&idx=4&type=39&tkn=JK_chGPhL-ImYpUe5-dCIo_37jU&fn=vid_s",
+                    "photo_320": "https://i.mycdn.me/getVideoPreview?id=3063149038129&idx=4&type=39&tkn=JK_chGPhL-ImYpUe5-dCIo_37jU&fn=vid_l",
+                    "photo_800": "https://i.mycdn.me/getVideoPreview?id=3063149038129&idx=4&type=39&tkn=JK_chGPhL-ImYpUe5-dCIo_37jU&fn=vid_x",
+                    "photo_1280": "https://i.mycdn.me/getVideoPreview?id=3063149038129&idx=4&type=39&tkn=JK_chGPhL-ImYpUe5-dCIo_37jU&fn=vid_w",
+                    "first_frame_130": "https://i.mycdn.me/getVideoPreview?id=3063149038129&idx=0&type=39&tkn=iM0dyJn-JVP9x071toDNYdoOQUc&fn=vid_sm",
+                    "first_frame_160": "https://i.mycdn.me/getVideoPreview?id=3063149038129&idx=0&type=39&tkn=iM0dyJn-JVP9x071toDNYdoOQUc&fn=vid_d",
+                    "first_frame_320": "https://i.mycdn.me/getVideoPreview?id=3063149038129&idx=0&type=39&tkn=iM0dyJn-JVP9x071toDNYdoOQUc&fn=vid_md",
+                    "first_frame_800": "https://i.mycdn.me/getVideoPreview?id=3063149038129&idx=0&type=39&tkn=iM0dyJn-JVP9x071toDNYdoOQUc&fn=vid_f",
+                    "first_frame_1280": "https://i.mycdn.me/getVideoPreview?id=3063149038129&idx=0&type=39&tkn=iM0dyJn-JVP9x071toDNYdoOQUc",
+                    "width": 852,
+                    "height": 480,
+                    "id": 456302483,
+                    "owner_id": -112510789,
+                    "title": "Владимир Путин на 1160-летие Великого Новгорода",
+                    "track_code": "video_58674b4avYL54sJjlaF2TLaPmf3vwVbaIzNK5RUyIG9nX1c3ZpeMo-XjxGmZz3FJv4D__-v3ZeoRB3LWEUVBAwtfRRpXpr4",
+                    "views": 389747
+                }
+            }
+        ],
+        "post_source": {
+            "type": "vk"
+        },
+        "comments": {
+            "can_post": 1,
+            "count": 787,
+            "groups_can_post": true
+        },
+        "likes": {
+            "can_like": 1,
+            "count": 1072,
+            "user_likes": 0,
+            "can_publish": 1
+        },
+        "reposts": {
+            "count": 154,
+            "user_reposted": 0
+        },
+        "views": {
+            "count": 313472
+        },
+        "ads_easy_promote": {
+            "type": 2,
+            "text": "Что-то пошло не так.",
+            "label_text": "",
+            "button_text": "",
+            "is_ad_not_easy": false
+        },
+        "hash": "6Bu7NwhXJAYgOPJWZ1s_3RsXm5Sq"
+    },
+    {
+        "id": 7216464,
+        "from_id": -112510789,
+        "owner_id": -112510789,
+        "date": 1663771229,
+        "type": "post",
+        "marked_as_ads": 0,
+        "post_type": "post",
+        "text": "Вертолёт с логотипом российской компании Vladivostok Avia (базируется в городе Артём) разбился недалеко от черкесского района Денизли в Турции. \n \nНа борту находилось двое граждан РФ. Вместе с остальным экипажем они летели из города Кастамону на тушение пожаров в Мармарисе. Местные СМИ сообщают, что два человека погибли, пятеро ранены. \n \nГубернатор Атика объявил о начале расследования по факту крушения. Предварительно, вертолёт разбился при посадке в городе Чардак для дозаправки.",
+        "attachments": [
+            {
+                "type": "video",
+                "video": {
+                    "access_key": "124855d53426a5d282",
+                    "can_comment": 1,
+                    "can_like": 1,
+                    "can_repost": 1,
+                    "can_subscribe": 1,
+                    "can_add_to_faves": 1,
+                    "can_add": 1,
+                    "comments": 0,
+                    "date": 1663771206,
+                    "description": "",
+                    "duration": 28,
+                    "photo_130": "https://i.mycdn.me/getVideoPreview?id=2844082637378&idx=14&type=39&tkn=hlQMgO1gkfv13-q_Se-MlbYl0S0&fn=vid_s",
+                    "photo_320": "https://i.mycdn.me/getVideoPreview?id=2844082637378&idx=14&type=39&tkn=hlQMgO1gkfv13-q_Se-MlbYl0S0&fn=vid_l",
+                    "photo_800": "https://i.mycdn.me/getVideoPreview?id=2844082637378&idx=14&type=39&tkn=hlQMgO1gkfv13-q_Se-MlbYl0S0&fn=vid_x",
+                    "photo_1280": "https://i.mycdn.me/getVideoPreview?id=2844082637378&idx=14&type=39&tkn=hlQMgO1gkfv13-q_Se-MlbYl0S0&fn=vid_w",
+                    "first_frame_130": "https://i.mycdn.me/getVideoPreview?id=2844082637378&idx=0&type=39&tkn=PsW1-mTwUXKx_VY1NKPRm5IFYGY&fn=vid_sm",
+                    "first_frame_160": "https://i.mycdn.me/getVideoPreview?id=2844082637378&idx=0&type=39&tkn=PsW1-mTwUXKx_VY1NKPRm5IFYGY&fn=vid_d",
+                    "first_frame_320": "https://i.mycdn.me/getVideoPreview?id=2844082637378&idx=0&type=39&tkn=PsW1-mTwUXKx_VY1NKPRm5IFYGY&fn=vid_md",
+                    "first_frame_800": "https://i.mycdn.me/getVideoPreview?id=2844082637378&idx=0&type=39&tkn=PsW1-mTwUXKx_VY1NKPRm5IFYGY&fn=vid_f",
+                    "first_frame_1280": "https://i.mycdn.me/getVideoPreview?id=2844082637378&idx=0&type=39&tkn=PsW1-mTwUXKx_VY1NKPRm5IFYGY",
+                    "width": 852,
+                    "height": 480,
+                    "id": 456302482,
+                    "owner_id": -112510789,
+                    "title": "Вертолёт с логотипом российской компании Vladivostok Avia разбился недалеко от черкесского района Денизли в Турции",
+                    "track_code": "video_29e20585smBhL7DWuUrrz4mZ0m7D0OD1Rgb6DT-4y-Kt3QuY7E6DQX0utty1JOzKgJa5bMLm08V0MsI_O8-qjsHdGbXdf7E",
+                    "views": 282584
+                }
+            }
+        ],
+        "post_source": {
+            "type": "vk"
+        },
+        "comments": {
+            "can_post": 1,
+            "count": 74,
+            "groups_can_post": true
+        },
+        "likes": {
+            "can_like": 1,
+            "count": 209,
+            "user_likes": 0,
+            "can_publish": 1
+        },
+        "reposts": {
+            "count": 59,
+            "user_reposted": 0
+        },
+        "views": {
+            "count": 239528
+        },
+        "ads_easy_promote": {
+            "type": 2,
+            "text": "Что-то пошло не так.",
+            "label_text": "",
+            "button_text": "",
+            "is_ad_not_easy": false
+        },
+        "hash": "erXNOGtH3xpCxLW9xnmKQSMBV9TK"
+    },
+    {
+        "id": 7215273,
+        "from_id": -112510789,
+        "owner_id": -112510789,
+        "date": 1663767187,
+        "type": "post",
+        "marked_as_ads": 0,
+        "post_type": "post",
+        "text": "Выпускников военных кафедр российских вузов не будут призывать во время частичной мобилизации — заявил глава сенатского комитета по обороне Бондарев. \n \nРанее председатель комитета Госдумы по обороне Картаполов говорил, что если военно-учётные специальности выпускников будут нужны, им выдадут повестки.",
+        "post_source": {
+            "type": "vk"
+        },
+        "comments": {
+            "can_post": 1,
+            "count": 542,
+            "groups_can_post": true
+        },
+        "likes": {
+            "can_like": 1,
+            "count": 196,
+            "user_likes": 0,
+            "can_publish": 1
+        },
+        "reposts": {
+            "count": 905,
+            "user_reposted": 0
+        },
+        "views": {
+            "count": 193624
+        },
+        "ads_easy_promote": {
+            "type": 2,
+            "text": "Что-то пошло не так.",
+            "label_text": "",
+            "button_text": "",
+            "is_ad_not_easy": false
+        },
+        "hash": "FQ14igRjG9G8W4MMm7b0s1T29X56"
+    },
+    {
+        "id": 7215176,
+        "from_id": -112510789,
+        "owner_id": -112510789,
+        "date": 1663766886,
+        "type": "post",
+        "marked_as_ads": 0,
+        "post_type": "post",
+        "text": "ЦБ порекомендовал банкам России и микрофинансовым организациям давать мобилизованным гражданам кредитные каникулы. Это касается и ипотеки. \n \nТакже рекомендовано: \n \n— Не начислять по договорам неустойку (штрафы и пени). \n \n— Не предъявлять требования о досрочном исполнении обязательств. \n \n— Приостановить взыскание просроченной задолженности или ипотечного жилья. \n \n— Не выселять людей из ипотечного жилья, на которое ранее было обращено взыскание. \n \nАналогичное право предоставляется близким родственникам заёмщиков. При условии, если они находятся у них на иждивении.",
+        "attachments": [
+            {
+                "type": "photo",
+                "photo": {
+                    "album_id": -7,
+                    "date": 1663766886,
+                    "id": 457874161,
+                    "owner_id": -112510789,
+                    "access_key": "ccbccc309de2d9c67d",
+                    "post_id": 7215176,
+                    "sizes": [
+                        {
+                            "height": 75,
+                            "url": "https://sun1.userapi.com/sun1-86/s/v1/ig2/S3XARxava62Mpt7dsg2EXRtwwQZkCTv03i_x7mLgLlyndAkQO0HBTYEF_ZF9oQEoHJIx4M5cFdLxwIH6rRJWFwV5.jpg?size=75x75&quality=95&type=album",
+                            "type": "s",
+                            "width": 75
+                        },
+                        {
+                            "height": 130,
+                            "url": "https://sun1.userapi.com/sun1-86/s/v1/ig2/DiYgDnWBvSkN-VwKZvBYz-yC9Cy8tA1eh_-dlCiQqnWyVk8uMf0bVZUsnUGgBFFzHUe-b4ie6FDjKSDLs0rvGYyI.jpg?size=130x130&quality=95&type=album",
+                            "type": "m",
+                            "width": 130
+                        },
+                        {
+                            "height": 604,
+                            "url": "https://sun1.userapi.com/sun1-86/s/v1/ig2/NlYQsLq5Eg9REca0smbDBmJI2pzo5lna5TmhrZLJD9XaGv6yGLcPdkf3FpGmqYOIAnHXLuMtP0Iu2h-yOdDlEg-a.jpg?size=604x604&quality=95&type=album",
+                            "type": "x",
+                            "width": 604
+                        },
+                        {
+                            "height": 807,
+                            "url": "https://sun1.userapi.com/sun1-86/s/v1/ig2/ygRwiEgy-Jz3t2mK761DAG1gl0t_zMTHKXqOmokzapCeAvGykjsb_NbZFIOOwy29TFyeYUHdEnhaqBiZw_-9pKeY.jpg?size=807x807&quality=95&type=album",
+                            "type": "y",
+                            "width": 807
+                        },
+                        {
+                            "height": 1280,
+                            "url": "https://sun1.userapi.com/sun1-86/s/v1/ig2/cMyWPXhEoPLoLrsRDhPpKpuVxj8lmBgK5lbJei34WVUiZDMyd9DCqT7bQdj0zqETSzYfbf-YUV1Pc8dzhqPxy4ag.jpg?size=1280x1280&quality=95&type=album",
+                            "type": "z",
+                            "width": 1280
+                        },
+                        {
+                            "height": 1920,
+                            "url": "https://sun1.userapi.com/sun1-86/s/v1/ig2/tBbAplifDbaT-Ewm8Zcwp4xker9Nrq-R8YGkSFsyhcdztGinDja6mj0PXt_etzvrfBLsoS1nFxgOu4Hyr5KHILdk.jpg?size=1920x1920&quality=95&type=album",
+                            "type": "w",
+                            "width": 1920
+                        },
+                        {
+                            "height": 130,
+                            "url": "https://sun1.userapi.com/sun1-86/s/v1/ig2/DiYgDnWBvSkN-VwKZvBYz-yC9Cy8tA1eh_-dlCiQqnWyVk8uMf0bVZUsnUGgBFFzHUe-b4ie6FDjKSDLs0rvGYyI.jpg?size=130x130&quality=95&type=album",
+                            "type": "o",
+                            "width": 130
+                        },
+                        {
+                            "height": 200,
+                            "url": "https://sun1.userapi.com/sun1-86/s/v1/ig2/cNrPqEwtI24FvLb5P7LMkw27UYWU2_bxcyE9te1cveuv89gHHyAAIoFLuVKXaGbZYK8GPprAmjfn1MLBWorBJ-yd.jpg?size=200x200&quality=95&type=album",
+                            "type": "p",
+                            "width": 200
+                        },
+                        {
+                            "height": 320,
+                            "url": "https://sun1.userapi.com/sun1-86/s/v1/ig2/F79skUO2ErumF_GQawAHPv-on1SxsRsTmCxS_tHcoQLhFHq3FK2RU5e52Evk1NfzEhIe2rtUyFEBtek5rCFXwiNK.jpg?size=320x320&quality=95&type=album",
+                            "type": "q",
+                            "width": 320
+                        },
+                        {
+                            "height": 510,
+                            "url": "https://sun1.userapi.com/sun1-86/s/v1/ig2/_7FuySH71r92rGDwo-fyhYp1GhbpIKVwGgTQPadOK_Ke6yxWJovGul37qwUmWuz2SWJByKYjJmeVa-9_EIIqzHii.jpg?size=510x510&quality=95&type=album",
+                            "type": "r",
+                            "width": 510
+                        }
+                    ],
+                    "text": "",
+                    "user_id": 100
+                }
+            }
+        ],
+        "post_source": {
+            "type": "vk"
+        },
+        "comments": {
+            "can_post": 1,
+            "count": 479,
+            "groups_can_post": true
+        },
+        "likes": {
+            "can_like": 1,
+            "count": 631,
+            "user_likes": 0,
+            "can_publish": 1
+        },
+        "reposts": {
+            "count": 731,
+            "user_reposted": 0
+        },
+        "views": {
+            "count": 286563
+        },
+        "ads_easy_promote": {
+            "type": 2,
+            "text": "Что-то пошло не так.",
+            "label_text": "",
+            "button_text": "",
+            "is_ad_not_easy": false
+        },
+        "hash": "wJuDwaoVJEMhQkTxrHqZljiOcwgy"
+    },
+    {
+        "id": 7214728,
+        "from_id": -112510789,
+        "owner_id": -112510789,
+        "date": 1663765350,
+        "type": "post",
+        "marked_as_ads": 0,
+        "post_type": "post",
+        "text": "\"Да, я в больнице. Я заболел, но ничего страшного в этом нет. Я решил госпитализировать сам себя\" \n \nАктёр Сергей Бурунов подтвердил нашу информацию о том, что заразился ковидом и лёг в больницу. Сказал, что к врачам обратился сам и очень скоро будет дома. \n \nА ещё напомнил, что корона никуда не ушла, и попросил не забывать о мерах безопасности.",
+        "attachments": [
+            {
+                "type": "video",
+                "video": {
+                    "access_key": "8a808bc1a7ebe9c018",
+                    "can_comment": 1,
+                    "can_like": 1,
+                    "can_repost": 1,
+                    "can_subscribe": 1,
+                    "can_add_to_faves": 1,
+                    "can_add": 1,
+                    "comments": 24,
+                    "date": 1663765330,
+                    "description": "",
+                    "duration": 81,
+                    "photo_130": "https://i.mycdn.me/getVideoPreview?id=2845939796634&idx=12&type=39&tkn=ELymhY0PifOC_CK8mKvlHLhJX0Y&fn=vid_s",
+                    "photo_320": "https://i.mycdn.me/getVideoPreview?id=2845939796634&idx=12&type=39&tkn=ELymhY0PifOC_CK8mKvlHLhJX0Y&fn=vid_l",
+                    "photo_800": "https://i.mycdn.me/getVideoPreview?id=2845939796634&idx=12&type=39&tkn=ELymhY0PifOC_CK8mKvlHLhJX0Y&fn=vid_x",
+                    "photo_1280": "https://i.mycdn.me/getVideoPreview?id=2845939796634&idx=12&type=39&tkn=ELymhY0PifOC_CK8mKvlHLhJX0Y&fn=vid_w",
+                    "first_frame_130": "https://i.mycdn.me/getVideoPreview?id=2845939796634&idx=0&type=39&tkn=WSe9S_wrW8h07DJcRYWgm0Vc6aA&fn=vid_sm",
+                    "first_frame_160": "https://i.mycdn.me/getVideoPreview?id=2845939796634&idx=0&type=39&tkn=WSe9S_wrW8h07DJcRYWgm0Vc6aA&fn=vid_d",
+                    "first_frame_320": "https://i.mycdn.me/getVideoPreview?id=2845939796634&idx=0&type=39&tkn=WSe9S_wrW8h07DJcRYWgm0Vc6aA&fn=vid_md",
+                    "first_frame_800": "https://i.mycdn.me/getVideoPreview?id=2845939796634&idx=0&type=39&tkn=WSe9S_wrW8h07DJcRYWgm0Vc6aA&fn=vid_f",
+                    "first_frame_1280": "https://i.mycdn.me/getVideoPreview?id=2845939796634&idx=0&type=39&tkn=WSe9S_wrW8h07DJcRYWgm0Vc6aA",
+                    "width": 720,
+                    "height": 720,
+                    "id": 456302458,
+                    "owner_id": -112510789,
+                    "title": "Актёр Сергей Бурунов подтвердил нашу информацию о том, что заразился ковидом",
+                    "track_code": "video_5d9f297bEVamLyFzNvUM6d_sEXm_wlgOsWFr5Lb8artuGT-Ti_Agd7ouJ3k6mwvs1uF5f7L0az6DVV7csosL1wIZLb66wRI",
+                    "views": 236192
+                }
+            }
+        ],
+        "post_source": {
+            "type": "vk"
+        },
+        "comments": {
+            "can_post": 1,
+            "count": 190,
+            "groups_can_post": true
+        },
+        "likes": {
+            "can_like": 1,
+            "count": 824,
+            "user_likes": 0,
+            "can_publish": 1
+        },
+        "reposts": {
+            "count": 186,
+            "user_reposted": 0
+        },
+        "views": {
+            "count": 172503
+        },
+        "ads_easy_promote": {
+            "type": 2,
+            "text": "Что-то пошло не так.",
+            "label_text": "",
+            "button_text": "",
+            "is_ad_not_easy": false
+        },
+        "caption": {
+            "action_title": "Перейти",
+            "action_url": "https://vk.com/covid19",
+            "text": "Узнайте больше о COVID-19",
+            "type": "custom"
+        },
+        "hash": "frkbNENiMr5pP3IjDzgt9RsbZm7m"
+    },
+    {
+        "id": 7212951,
+        "from_id": -112510789,
+        "owner_id": -112510789,
+        "date": 1663759155,
+        "type": "post",
+        "marked_as_ads": 0,
+        "post_type": "post",
+        "text": "Ожидается, что основная часть призывников будет из центральных и западных регионов России, исходя из их мобилизационного ресурса. Об этом сообщил глава комитета Госдумы по обороне РФ Андрей Картаполов. \n \nТакже он ответил, что каждый субъект получает разнарядку из своих возможностей.",
+        "post_source": {
+            "type": "vk"
+        },
+        "comments": {
+            "can_post": 1,
+            "count": 840,
+            "groups_can_post": true
+        },
+        "likes": {
+            "can_like": 1,
+            "count": 357,
+            "user_likes": 0,
+            "can_publish": 1
+        },
+        "reposts": {
+            "count": 829,
+            "user_reposted": 0
+        },
+        "views": {
+            "count": 316161
+        },
+        "ads_easy_promote": {
+            "type": 2,
+            "text": "Что-то пошло не так.",
+            "label_text": "",
+            "button_text": "",
+            "is_ad_not_easy": false
+        },
+        "hash": "S5f7kYnmqxMDlhlvYSZ-tPQQHw5W"
+    },
+    {
+        "id": 7212662,
+        "from_id": -112510789,
+        "owner_id": -112510789,
+        "date": 1663758319,
+        "type": "post",
+        "marked_as_ads": 0,
+        "post_type": "post",
+        "text": "Сергей Собянин выделил средства из бюджета города для дополнительных выплат мобилизованным в Москве. Главное: \n \n— Меры распространяются на граждан, призванных в Москве. \n \n— Мэр отметил, что сотни москвичей уже принимают участие в боевых действиях. \n \n— Укомплектованы три батальона: \"Георгиевский\", \"Маршала Катукова\" и \"Донской\". \n \n— Столица России продолжит активно восстанавливать города-побратимы Донецк и Луганск.",
+        "attachments": [
+            {
+                "type": "photo",
+                "photo": {
+                    "album_id": -7,
+                    "date": 1663758319,
+                    "id": 457873919,
+                    "owner_id": -112510789,
+                    "access_key": "9fdebf4ff1514b7683",
+                    "post_id": 7212662,
+                    "sizes": [
+                        {
+                            "height": 46,
+                            "url": "https://sun1.userapi.com/sun1-92/s/v1/ig2/5YkFMv8wCNaS8cWSda2xHQAd6mqIdgjUsu6hDxUC4mC-TDSngeu649TsPUWaWLltAPe9ypccymun45m4y4SYusdi.jpg?size=75x46&quality=95&type=album",
+                            "type": "s",
+                            "width": 75
+                        },
+                        {
+                            "height": 80,
+                            "url": "https://sun1.userapi.com/sun1-92/s/v1/ig2/MKHEiaYVMiVN60by5s9uXdyjIxxfU4EwBEOoNLDfL6eXYxiv6y3eDV_KdkQuWhR4rl0xV6olv1qRuXbj06R44QSW.jpg?size=130x80&quality=95&type=album",
+                            "type": "m",
+                            "width": 130
+                        },
+                        {
+                            "height": 374,
+                            "url": "https://sun1.userapi.com/sun1-92/s/v1/ig2/2U8ANYnxIL9rn6y5S1kPVU3QXLqu7pAdB9MYbTZXbU3cs6IxuI0jo9n4vNycfJsgYJHscMN28Z4p_BGWFgir-q6F.jpg?size=604x374&quality=95&type=album",
+                            "type": "x",
+                            "width": 604
+                        },
+                        {
+                            "height": 499,
+                            "url": "https://sun1.userapi.com/sun1-92/s/v1/ig2/2WSFu1Z4Fj5V6iRtgM910krGYJbxjYW21Mc6zKd1NE5X7-BtspkuuZzwhLNxQn4DeTPOV9PZnZOPTSBwXGTdWxd1.jpg?size=807x499&quality=95&type=album",
+                            "type": "y",
+                            "width": 807
+                        },
+                        {
+                            "height": 792,
+                            "url": "https://sun1.userapi.com/sun1-92/s/v1/ig2/MjTo8XHNnMBCi8mRBui8_RpngphfzsLc2QVdLEIrhYknjsCCHT4EPyu4zV387DmthEFQmhwnmnOOiyTL-WE5edS0.jpg?size=1280x792&quality=95&type=album",
+                            "type": "z",
+                            "width": 1280
+                        },
+                        {
+                            "height": 1188,
+                            "url": "https://sun1.userapi.com/sun1-92/s/v1/ig2/f4j4pztBg2bggOGN3eIFXZV_toh3nUlalEw0wCXv-zptchHp-sdD-Ajfsl55OLxweUBhnGrpPSC2_OG6xioexSG5.jpg?size=1920x1188&quality=95&type=album",
+                            "type": "w",
+                            "width": 1920
+                        },
+                        {
+                            "height": 87,
+                            "url": "https://sun1.userapi.com/sun1-92/s/v1/ig2/4UhQ5h0D8Qs74sXba36yuAcfOp5oKWvPLxHFX4kKkv9eXytH6sNb3MJPBnGlx8mdgbWWzTzQ-49QQFMTxdXmh2fQ.jpg?size=130x87&quality=95&crop=72,0,1775,1188&type=album",
+                            "type": "o",
+                            "width": 130
+                        },
+                        {
+                            "height": 133,
+                            "url": "https://sun1.userapi.com/sun1-92/s/v1/ig2/ej5DqGgnaOtt2zaNNgHL8wDZaC-JhOMYBq5ipFOSC0bFtNVM9mNMYXziEvlhtp-91Y09_vmG8Y3yf21MAqKY0Giy.jpg?size=200x133&quality=95&crop=67,0,1786,1188&type=album",
+                            "type": "p",
+                            "width": 200
+                        },
+                        {
+                            "height": 213,
+                            "url": "https://sun1.userapi.com/sun1-92/s/v1/ig2/tA-aLKtt92dYA7EX9zMPtllRyW066cD4LgHq1R0evxNe3P5-zfcP0HPc14lnLaWzoa914egnhkFkUH7TrR42i99U.jpg?size=320x213&quality=95&crop=67,0,1785,1188&type=album",
+                            "type": "q",
+                            "width": 320
+                        },
+                        {
+                            "height": 340,
+                            "url": "https://sun1.userapi.com/sun1-92/s/v1/ig2/WFPFSD3lF57DwABAgFb_0fqnXtN6FwjI3jyTDX6T2QXgjTAvae3Ju48yNCgLoW43aBFdZQxlxkdaCslWroj9-ied.jpg?size=510x340&quality=95&crop=69,0,1782,1188&type=album",
+                            "type": "r",
+                            "width": 510
+                        }
+                    ],
+                    "text": "",
+                    "user_id": 100
+                }
+            }
+        ],
+        "post_source": {
+            "type": "vk"
+        },
+        "comments": {
+            "can_post": 1,
+            "count": 1092,
+            "groups_can_post": true
+        },
+        "likes": {
+            "can_like": 1,
+            "count": 1083,
+            "user_likes": 0,
+            "can_publish": 1
+        },
+        "reposts": {
+            "count": 332,
+            "user_reposted": 0
+        },
+        "views": {
+            "count": 549941
+        },
+        "ads_easy_promote": {
+            "type": 2,
+            "text": "Что-то пошло не так.",
+            "label_text": "",
+            "button_text": "",
+            "is_ad_not_easy": false
+        },
+        "hash": "5i2sfZhiUvJ23qC_ttRYDGi58SE-"
+    },
+    {
+        "id": 7212287,
+        "from_id": -112510789,
+        "owner_id": -112510789,
+        "date": 1663757034,
+        "type": "post",
+        "marked_as_ads": 0,
+        "post_type": "post",
+        "text": "\"По нашим данным, на текущий момент никаких дополнительных ограничений на выезд за границу не вводилось\" — глава Ростуризма Зарина Догузова. \n \nПо её словам, ведомство запросило официальные разъяснения.",
+        "post_source": {
+            "type": "vk"
+        },
+        "comments": {
+            "can_post": 1,
+            "count": 109,
+            "groups_can_post": true
+        },
+        "likes": {
+            "can_like": 1,
+            "count": 125,
+            "user_likes": 0,
+            "can_publish": 1
+        },
+        "reposts": {
+            "count": 138,
+            "user_reposted": 0
+        },
+        "views": {
+            "count": 150292
+        },
+        "ads_easy_promote": {
+            "type": 2,
+            "text": "Что-то пошло не так.",
+            "label_text": "",
+            "button_text": "",
+            "is_ad_not_easy": false
+        },
+        "hash": "158ouuaxfBqqC4_Emd87nH1t_QEJ"
+    },
+    {
+        "id": 7211282,
+        "from_id": -112510789,
+        "owner_id": -112510789,
+        "date": 1663754128,
+        "type": "post",
+        "marked_as_ads": 0,
+        "post_type": "post",
+        "text": "Кого освободят от мобилизации? Призовут ли женщин? Грозит ли уголовка запасникам, которые сейчас за границей? Мы решили выяснить у военных экспертов, обозревателей и отставных офицеров, что к чему. Отвечаем на основные вопросы: \n \n— Мобилизуют, как и говорил Шойгу, преимущественно тех, кто отслужил, у кого есть боевой опыт и военно-учётная специальность. Во многом это участники конфликтов пяти- или десятилетней давности. Например, Сирия или Кавказ. \n \n— Студентов вузов, колледжей и всех, у кого есть отсрочка от службы в армии к мобилизации не привлекут. Служащих по призыву также в зону СВО не отправят. \n \n— Женщины — военные медики могут быть призваны на службу, но каждый такой случай индивидуален. \n \n— Тем, кто сейчас за границей, уголовная ответственность за уклонение не угрожает. Но если вы приехали и обнаружили повестку дома, то должны будете объясниться с военкоматом. \n \n— Армии в первую очередь нужны стрелковые части, артиллеристы и войска РЭБ. \n \n— Возраст для мобилизации ограничен: рядовые и сержанты в запасе — до 35 лет, майоры — до 40 лет, полковники — до 50. \n \n— Мужчины не пойдут служить, если у них есть четверо детей или жена на 22-й (и выше) неделе беременности, если это четвёртый ребёнок. Также освободят тех, у кого есть на иждивении родственник. Ну и, разумеется, больных призывать не будут. \n \n— Никаких ограничений на передвижения находящихся в запасе людей не будет. \n \n— Порядок мобилизации определит Министерство обороны.",
+        "post_source": {
+            "type": "vk"
+        },
+        "comments": {
+            "can_post": 1,
+            "count": 1044,
+            "groups_can_post": true
+        },
+        "likes": {
+            "can_like": 1,
+            "count": 1074,
+            "user_likes": 0,
+            "can_publish": 1
+        },
+        "reposts": {
+            "count": 5458,
+            "user_reposted": 0
+        },
+        "views": {
+            "count": 407884
+        },
+        "ads_easy_promote": {
+            "type": 2,
+            "text": "Что-то пошло не так.",
+            "label_text": "",
+            "button_text": "",
+            "is_ad_not_easy": false
+        },
+        "hash": "O2babH2MCZpmMhJJddqpcuHxr5ht"
+    },
+    {
+        "id": 7211196,
+        "from_id": -112510789,
+        "owner_id": -112510789,
+        "date": 1663753865,
+        "type": "post",
+        "marked_as_ads": 0,
+        "post_type": "post",
+        "text": "Сегодня в Казани стартуют \"Фиджитал игры\". Соревнования совместили в себе зрелищный киберспорт и динамичный футбол и баскетбол. И добавили красоты MR-технологий. \n \nВ чём суть: сначала маэстро клавомыши доказывают превосходство в онлайне, а потом переходят на реальное поле. С 21 по 23 сентября спортсмены будут выяснять, кто из них лучше закидывает мячи и машется в Beat Saber. В ивенте примут участие больше 100 киберспортсменов, среди селеб: 2Drots, FC \"Amkal\" и бразильский Tamo Junto. \n \nСобирай друзей и смотри стрим по ссылке: https://gof.vkplay.ru/",
+        "attachments": [
+            {
+                "type": "link",
+                "link": {
+                    "url": "https://gof.vkplay.ru/",
+                    "title": "Игры Будущего GoF.VKPLAY",
+                    "caption": "gof.vkplay.ru",
+                    "photo": {
+                        "album_id": -28,
+                        "date": 1663753865,
+                        "id": 457402555,
+                        "owner_id": 2000017942,
+                        "sizes": [
+                            {
+                                "height": 400,
+                                "url": "https://sun9-west.userapi.com/sun9-45/s/v1/s2/VpI5PUFqTi4XbN8TeT1IQYAr14OnwasRBghu3TBitUm1JVf5OsSr4tKpiQbH9JvEBiutigwPxuCnjb0UvWDaNWA.jpg",
+                                "type": "temp",
+                                "width": 760
+                            },
+                            {
+                                "height": 35,
+                                "url": "https://sun9-west.userapi.com/sun9-56/s/v1/ig2/asytIEtNmFEgMph7lPKT2PQJoEdduMRavWanWhAd6PRYAROKc8ACNr2kFvYCSkTAjBNz_ogM2gbxYJUEh36DMHHH.jpg?size=75x35&quality=96&crop=11,0,514,240&type=share",
+                                "type": "s",
+                                "width": 75
+                            },
+                            {
+                                "height": 80,
+                                "url": "https://sun9-west.userapi.com/sun9-56/s/v1/ig2/dpXVrWV7ZL4AGZRYwucAv5vuLCWvLVYblrdO2RechNEBVQ-axyI7hOaEHM7S94PhUlvvAKvWABSXSQSd96XYVxoT.jpg?size=130x80&quality=96&crop=73,0,390,240&type=share",
+                                "type": "m",
+                                "width": 130
+                            },
+                            {
+                                "height": 80,
+                                "url": "https://sun9-west.userapi.com/sun9-56/s/v1/ig2/a1LcM2wBwjjQ2rm7Q4MGu27nButfQkWihTUtk9pFw6X8EpigVISREiZ5UuhUeRxd68UkmlGalHskIct8UATm2Y_9.jpg?size=150x80&quality=96&crop=43,0,450,240&type=share",
+                                "type": "x",
+                                "width": 150
+                            },
+                            {
+                                "height": 140,
+                                "url": "https://sun9-west.userapi.com/sun9-56/s/v1/ig2/nGsGIO765E2dkcHc_O6VUB6H5OMYuBWVLe-jHAZGoqxmor1BZiphB-IuqN1DQBNB9dP3TibPpUBBYMp5wcPsM9Jh.jpg?size=260x140&quality=96&crop=45,0,446,240&type=share",
+                                "type": "p",
+                                "width": 260
+                            },
+                            {
+                                "height": 240,
+                                "url": "https://sun9-west.userapi.com/sun9-56/s/v1/ig2/YyqtV3TOh39xzKrBpxEZysiImGG_2eDEm7vyNp4jFznd-o0Kim4lHSQTP745mAC6muXbYKoekKkuw2jKnarL4h6Z.jpg?size=537x240&quality=96&type=share",
+                                "type": "l",
+                                "width": 537
+                            }
+                        ],
+                        "text": "",
+                        "user_id": 100
+                    },
+                    "target": "internal"
+                }
+            }
+        ],
+        "post_source": {
+            "type": "vk"
+        },
+        "comments": {
+            "can_post": 1,
+            "count": 15,
+            "groups_can_post": true
+        },
+        "likes": {
+            "can_like": 1,
+            "count": 21,
+            "user_likes": 0,
+            "can_publish": 1
+        },
+        "reposts": {
+            "count": 12,
+            "user_reposted": 0
+        },
+        "views": {
+            "count": 108963
+        },
+        "ads_easy_promote": {
+            "type": 2,
+            "text": "Что-то пошло не так.",
+            "label_text": "",
+            "button_text": "",
+            "is_ad_not_easy": false
+        },
+        "hash": "veN2E5FxQdX-BwSVqnVZ-WTAnT4t"
+    },
+    {
+        "id": 7211115,
+        "from_id": -112510789,
+        "owner_id": -112510789,
+        "date": 1663753671,
+        "type": "post",
+        "marked_as_ads": 0,
+        "post_type": "post",
+        "text": "Новые заявления министра обороны Сергея Шойгу: \n \n— База мобилизационного развёртывания соединений и воинских частей, военных комиссариатов и аппарат усиления к мобилизации готовы. \n \n— Настало время на практике применить опыт, полученный в ходе ежегодных стратегических учений. \n \n— Директива о частичной мобилизации мною подписана, задания регионам определены, указания генштаба по порядку проведения мобилизационных мероприятий в войска и силах отданы, поручаю приступить к исполнению. \n \n— Задания субъектам в рамках частичной мобилизации определены, указания Генштаба по порядку проведения мероприятий в войска и силах отданы. \n \n— Поручил организовать оповещение граждан, усилив меры противодействия провокациям, охрану участков, пунктов приёма и сбора граждан.",
+        "attachments": [
+            {
+                "type": "photo",
+                "photo": {
+                    "album_id": -7,
+                    "date": 1663753671,
+                    "id": 457873804,
+                    "owner_id": -112510789,
+                    "access_key": "de22533e12417ae765",
+                    "post_id": 7211115,
+                    "sizes": [
+                        {
+                            "height": 50,
+                            "url": "https://sun1.userapi.com/sun1-17/s/v1/ig2/GvRUILpxuNSAQ3LanawrWHQ6mcUIm27FeCswmd3-VvT3qDBKGPZk1r9j3oqU7uGeXYy9r3-JGX2zJgAIJzEMuOMW.jpg?size=75x50&quality=95&type=album",
+                            "type": "s",
+                            "width": 75
+                        },
+                        {
+                            "height": 87,
+                            "url": "https://sun1.userapi.com/sun1-17/s/v1/ig2/wORYWJ8KCN5JKYIdemMMZpL-5amGHHKq43y92o-IzfUi3Obp6gLcV9COrhrxmaWLSQ3n8z2KmvOv_Mk_hAjDe3wI.jpg?size=130x87&quality=95&type=album",
+                            "type": "m",
+                            "width": 130
+                        },
+                        {
+                            "height": 403,
+                            "url": "https://sun1.userapi.com/sun1-17/s/v1/ig2/HQbmht628RFSuGOkF4u5TiVp5Gnh3egmY-x4UznK1HacOcBymnaAunmGPWzJZSIBrK1Io56IBqsRud85Ps_RrcQp.jpg?size=604x403&quality=95&type=album",
+                            "type": "x",
+                            "width": 604
+                        },
+                        {
+                            "height": 538,
+                            "url": "https://sun1.userapi.com/sun1-17/s/v1/ig2/8KZy3v4jJWKxzeSfoauxB2g95CNLqAyzffeKIKrplONWY6Kbm_-_aBjuf_rebzMhu6G3Ik1H1jvg5qV75XgVB-Pe.jpg?size=807x538&quality=95&type=album",
+                            "type": "y",
+                            "width": 807
+                        },
+                        {
+                            "height": 600,
+                            "url": "https://sun1.userapi.com/sun1-17/s/v1/ig2/uhGGaqHQev9-rdr5nmDuoxXoQOXjBKm5_pkHHQzuiWqGBvNLhsITosMPtQmzCc9k6a3ia6OHmBr1gZWYp3kZkt9o.jpg?size=900x600&quality=95&type=album",
+                            "type": "z",
+                            "width": 900
+                        },
+                        {
+                            "height": 87,
+                            "url": "https://sun1.userapi.com/sun1-17/s/v1/ig2/wORYWJ8KCN5JKYIdemMMZpL-5amGHHKq43y92o-IzfUi3Obp6gLcV9COrhrxmaWLSQ3n8z2KmvOv_Mk_hAjDe3wI.jpg?size=130x87&quality=95&type=album",
+                            "type": "o",
+                            "width": 130
+                        },
+                        {
+                            "height": 133,
+                            "url": "https://sun1.userapi.com/sun1-17/s/v1/ig2/uOmcDjxdrenry6ACKX7-Fb_FxCzUS3qkidXVe3EGNoM7QHOcUXkO-cTmUUSuZ9dxajUZY9P_sZuS48tb39e89cf4.jpg?size=200x133&quality=95&type=album",
+                            "type": "p",
+                            "width": 200
+                        },
+                        {
+                            "height": 213,
+                            "url": "https://sun1.userapi.com/sun1-17/s/v1/ig2/zOCKatiJi0MW2N7tr3Jx_5ctTyloTzWYTXqqfnpoh6k5FQgfqXaIODz7OHvgpkvTFWrjAAFSxq8dNFLoojsIa5G4.jpg?size=320x213&quality=95&type=album",
+                            "type": "q",
+                            "width": 320
+                        },
+                        {
+                            "height": 340,
+                            "url": "https://sun1.userapi.com/sun1-17/s/v1/ig2/YLvjXf9g9fcN_KXJTtuNMpQ32p0nE9SzNg-q_Za2pGuUMlf7yANmojwOsP0FcvQBjewpbupG3GuWk8BHel-Kg3ch.jpg?size=510x340&quality=95&type=album",
+                            "type": "r",
+                            "width": 510
+                        }
+                    ],
+                    "text": "",
+                    "user_id": 100
+                }
+            }
+        ],
+        "post_source": {
+            "type": "vk"
+        },
+        "comments": {
+            "can_post": 1,
+            "count": 866,
+            "groups_can_post": true
+        },
+        "likes": {
+            "can_like": 1,
+            "count": 657,
+            "user_likes": 0,
+            "can_publish": 1
+        },
+        "reposts": {
+            "count": 291,
+            "user_reposted": 0
+        },
+        "views": {
+            "count": 296413
+        },
+        "ads_easy_promote": {
+            "type": 2,
+            "text": "Что-то пошло не так.",
+            "label_text": "",
+            "button_text": "",
+            "is_ad_not_easy": false
+        },
+        "hash": "Kr6LhGkj1zgasTIio9wFV3GHKAB9"
+    },
+    {
+        "id": 7211095,
+        "from_id": -112510789,
+        "owner_id": -112510789,
+        "date": 1663753630,
+        "type": "post",
+        "marked_as_ads": 0,
+        "post_type": "post",
+        "text": "Повестки в рамках частичной мобилизации не будут рассылаться через \"Госуслуги\". Об этом заявили в Минцифры РФ. \n \nВедомство уточнило, что таких планов нет, а законодательная база для этого отсутствует.",
+        "post_source": {
+            "type": "vk"
+        },
+        "comments": {
+            "can_post": 1,
+            "count": 69,
+            "groups_can_post": true
+        },
+        "likes": {
+            "can_like": 1,
+            "count": 113,
+            "user_likes": 0,
+            "can_publish": 1
+        },
+        "reposts": {
+            "count": 405,
+            "user_reposted": 0
+        },
+        "views": {
+            "count": 131046
+        },
+        "ads_easy_promote": {
+            "type": 2,
+            "text": "Что-то пошло не так.",
+            "label_text": "",
+            "button_text": "",
+            "is_ad_not_easy": false
+        },
+        "hash": "bYvkUHCQ02v2LRCDCQA-n3mavtd9"
+    },
+    {
+        "id": 7210064,
+        "from_id": -112510789,
+        "owner_id": -112510789,
+        "date": 1663750335,
+        "type": "post",
+        "marked_as_ads": 0,
+        "post_type": "post",
+        "text": "По некоторым данным, в военкоматы в основном вызывают бывших десантников, танкистов и артиллеристов. Также повестки получают медики. На сборы призванных отправляют с завтрашнего дня. Об этом нам сообщили несколько подписчиков из числа военнослужащих в запасе. \n \nТем временем у московских военкоматов уже небольшие очереди. На видео тот, что в Бутырском районе.",
+        "attachments": [
+            {
+                "type": "video",
+                "video": {
+                    "access_key": "e9d2f1c7cb91855dc4",
+                    "can_comment": 1,
+                    "can_like": 1,
+                    "can_repost": 1,
+                    "can_subscribe": 1,
+                    "can_add_to_faves": 1,
+                    "can_add": 1,
+                    "comments": 16,
+                    "date": 1663750312,
+                    "description": "",
+                    "duration": 11,
+                    "photo_130": "https://i.mycdn.me/getVideoPreview?id=2843206486594&idx=0&type=39&tkn=i2Qn8hKnVjqBDVbhZ-JTcRl1Cu4&fn=vid_s",
+                    "photo_320": "https://i.mycdn.me/getVideoPreview?id=2843206486594&idx=0&type=39&tkn=i2Qn8hKnVjqBDVbhZ-JTcRl1Cu4&fn=vid_l",
+                    "photo_800": "https://i.mycdn.me/getVideoPreview?id=2843206486594&idx=0&type=39&tkn=i2Qn8hKnVjqBDVbhZ-JTcRl1Cu4&fn=vid_x",
+                    "photo_1280": "https://i.mycdn.me/getVideoPreview?id=2843206486594&idx=0&type=39&tkn=i2Qn8hKnVjqBDVbhZ-JTcRl1Cu4&fn=vid_w",
+                    "first_frame_130": "https://i.mycdn.me/getVideoPreview?id=2843206486594&idx=0&type=39&tkn=i2Qn8hKnVjqBDVbhZ-JTcRl1Cu4&fn=vid_sm",
+                    "first_frame_160": "https://i.mycdn.me/getVideoPreview?id=2843206486594&idx=0&type=39&tkn=i2Qn8hKnVjqBDVbhZ-JTcRl1Cu4&fn=vid_d",
+                    "first_frame_320": "https://i.mycdn.me/getVideoPreview?id=2843206486594&idx=0&type=39&tkn=i2Qn8hKnVjqBDVbhZ-JTcRl1Cu4&fn=vid_md",
+                    "first_frame_800": "https://i.mycdn.me/getVideoPreview?id=2843206486594&idx=0&type=39&tkn=i2Qn8hKnVjqBDVbhZ-JTcRl1Cu4&fn=vid_f",
+                    "first_frame_1280": "https://i.mycdn.me/getVideoPreview?id=2843206486594&idx=0&type=39&tkn=i2Qn8hKnVjqBDVbhZ-JTcRl1Cu4",
+                    "width": 852,
+                    "height": 480,
+                    "id": 456302420,
+                    "owner_id": -112510789,
+                    "title": "По некоторым данным, в военкоматы в основном вызывают бывших десантников, танкистов и артиллеристов",
+                    "track_code": "video_1b4437383TxLn9hhxwLGGdchqAz1rR76yjhx_9kCk1NxMy-CVi_sHVee3mvLbMEc3ijHDvSbLcr4DEPP3XXyPx0zPa9nHt4",
+                    "views": 1921458
+                }
+            }
+        ],
+        "post_source": {
+            "type": "vk"
+        },
+        "comments": {
+            "can_post": 1,
+            "count": 2566,
+            "groups_can_post": true
+        },
+        "likes": {
+            "can_like": 1,
+            "count": 4670,
+            "user_likes": 0,
+            "can_publish": 1
+        },
+        "reposts": {
+            "count": 14784,
+            "user_reposted": 0
+        },
+        "views": {
+            "count": 1015527
+        },
+        "ads_easy_promote": {
+            "type": 2,
+            "text": "Что-то пошло не так.",
+            "label_text": "",
+            "button_text": "",
+            "is_ad_not_easy": false
+        },
+        "hash": "BM0-6wZGOmReSc4274mFj-svswkx"
+    },
+    {
+        "id": 7209605,
+        "from_id": -112510789,
+        "owner_id": -112510789,
+        "date": 1663749237,
+        "type": "post",
+        "marked_as_ads": 0,
+        "post_type": "post",
+        "text": "Выпускников военных кафедр призовут в том случае, если их военно-учетные специальности буду востребованы — председатель комитета Госдумы по обороне Картаполов",
+        "post_source": {
+            "type": "vk"
+        },
+        "comments": {
+            "can_post": 1,
+            "count": 181,
+            "groups_can_post": true
+        },
+        "likes": {
+            "can_like": 1,
+            "count": 253,
+            "user_likes": 0,
+            "can_publish": 1
+        },
+        "reposts": {
+            "count": 1033,
+            "user_reposted": 0
+        },
+        "views": {
+            "count": 158347
+        },
+        "ads_easy_promote": {
+            "type": 2,
+            "text": "Что-то пошло не так.",
+            "label_text": "",
+            "button_text": "",
+            "is_ad_not_easy": false
+        },
+        "hash": "baGBCdrdoHah4I1vfX59qU-cNU9W"
+    },
+    {
+        "id": 7209597,
+        "from_id": -112510789,
+        "owner_id": -112510789,
+        "date": 1663749215,
+        "type": "post",
+        "marked_as_ads": 0,
+        "post_type": "post",
+        "text": "Дополнительные ограничения на право выезда резервистов в связи с частичной мобилизацией не предусмотрены, заявил председатель комитета Госдумы по обороне Андрей Картаполов.",
+        "post_source": {
+            "type": "vk"
+        },
+        "comments": {
+            "can_post": 1,
+            "count": 93,
+            "groups_can_post": true
+        },
+        "likes": {
+            "can_like": 1,
+            "count": 101,
+            "user_likes": 0,
+            "can_publish": 1
+        },
+        "reposts": {
+            "count": 269,
+            "user_reposted": 0
+        },
+        "views": {
+            "count": 134031
+        },
+        "ads_easy_promote": {
+            "type": 2,
+            "text": "Что-то пошло не так.",
+            "label_text": "",
+            "button_text": "",
+            "is_ad_not_easy": false
+        },
+        "hash": "TiF0ob2qjcTiq0R8BlUxkiun9jNh"
+    },
+    {
+        "id": 7209586,
+        "from_id": -112510789,
+        "owner_id": -112510789,
+        "date": 1663749192,
+        "type": "post",
+        "marked_as_ads": 0,
+        "post_type": "post",
+        "text": "Граждане с приписным удостоверением не будут сейчас мобилизованы, эта категория призывается во время полной мобилизации — член СПЧ при президенте России Кирилл Кабанов.",
+        "post_source": {
+            "type": "vk"
+        },
+        "comments": {
+            "can_post": 1,
+            "count": 102,
+            "groups_can_post": true
+        },
+        "likes": {
+            "can_like": 1,
+            "count": 117,
+            "user_likes": 0,
+            "can_publish": 1
+        },
+        "reposts": {
+            "count": 530,
+            "user_reposted": 0
+        },
+        "views": {
+            "count": 123839
+        },
+        "ads_easy_promote": {
+            "type": 2,
+            "text": "Что-то пошло не так.",
+            "label_text": "",
+            "button_text": "",
+            "is_ad_not_easy": false
+        },
+        "hash": "Zi3kuOqzJ6JKbV0ThkleTl8GlysF"
+    },
+    {
+        "id": 7209379,
+        "from_id": -112510789,
+        "owner_id": -112510789,
+        "date": 1663748700,
+        "type": "post",
+        "marked_as_ads": 0,
+        "post_type": "post",
+        "text": "Владимир Путин подписал указ о частичной мобилизации в России. Что будет дальше? Рассказываем: \n \n— В соответствии с Федеральными законами 61 и 31 призываться будут те, кто раньше проходил военную службу и состоит в запасе. \n \n— Уровень денежного содержания россиян, призванных на службу в Вооруженные Силы Российской Федерации, будет соответствовать уровню денежного содержания контрактников. \n \n— Контракты о прохождении военной службы будут действовать до окончания периода частичной мобилизации. \n \n— Под мобилизацию не попадут те, кто не годен по состоянию здоровья, те, кто достиг \"предельного возраста\", те, кто осуждён. \n \nМинистр обороны Сергей Шойгу уточнил, что на службу призовут 300 тысяч резервистов — тех, кто отслужил, имеет военно-учётную специальность и боевой опыт. О призывах студентов и обучающихся речи не идёт. \n \nТакже призывать не будут ограниченно годных к военной службе — об этом заявил секретарь Совета по правам человека Александр Точенов.",
+        "attachments": [
+            {
+                "type": "photo",
+                "photo": {
+                    "album_id": -7,
+                    "date": 1663748700,
+                    "id": 457873616,
+                    "owner_id": -112510789,
+                    "access_key": "6a21f3e565f6853809",
+                    "sizes": [
+                        {
+                            "height": 75,
+                            "url": "https://sun1.userapi.com/sun1-86/s/v1/ig2/MH3G9DU--fQnTazMwJ-WW7TdoPLTkggVIpoXFDeMsMC7uT4XnMTVdvuqc7HO_8V1ebNAr76CSIVpRqyoh5-zW1Xx.jpg?size=75x75&quality=95&type=album",
+                            "type": "s",
+                            "width": 75
+                        },
+                        {
+                            "height": 130,
+                            "url": "https://sun1.userapi.com/sun1-86/s/v1/ig2/qqHxg0e9qx2MgZY9mHPTC-6P-JmA1kYxoOofg9lK-cAj4Qpb8ISseWUNrRfDCqR0rHa33svb-SBBeT3fWYVVq2zO.jpg?size=130x130&quality=95&type=album",
+                            "type": "m",
+                            "width": 130
+                        },
+                        {
+                            "height": 604,
+                            "url": "https://sun1.userapi.com/sun1-86/s/v1/ig2/hQ5IGYqgWcwhFocGU9o00247k1BtUZOJQ1N-Uca6T9zlBxbJb98vrh4iQiMFHA-QYYVS0-6m1xiLdX_INnqZcv1s.jpg?size=604x604&quality=95&type=album",
+                            "type": "x",
+                            "width": 604
+                        },
+                        {
+                            "height": 807,
+                            "url": "https://sun1.userapi.com/sun1-86/s/v1/ig2/M6YXpuQ5nSwxLAc8ZEgtx37z6lbe4hwf6-Ro3ag9piLi-1sjtVggdsD7VKVoFFetME4sL-1xm-a7RbbmFIsMeYRO.jpg?size=807x807&quality=95&type=album",
+                            "type": "y",
+                            "width": 807
+                        },
+                        {
+                            "height": 1080,
+                            "url": "https://sun1.userapi.com/sun1-86/s/v1/ig2/AuR-eH-RCQ9N4naEIyWt78WnhZnxQmwb_qweq7GqJnzsSIku5F8uOzl4FbEPcgjgN50Rbu_m6eu-XFOBvLjTeCwt.jpg?size=1080x1080&quality=95&type=album",
+                            "type": "z",
+                            "width": 1080
+                        },
+                        {
+                            "height": 130,
+                            "url": "https://sun1.userapi.com/sun1-86/s/v1/ig2/qqHxg0e9qx2MgZY9mHPTC-6P-JmA1kYxoOofg9lK-cAj4Qpb8ISseWUNrRfDCqR0rHa33svb-SBBeT3fWYVVq2zO.jpg?size=130x130&quality=95&type=album",
+                            "type": "o",
+                            "width": 130
+                        },
+                        {
+                            "height": 200,
+                            "url": "https://sun1.userapi.com/sun1-86/s/v1/ig2/WKT6-9dqFN2oLozhgYs4w7vkiPVAWRPBhsUqoARet4HCs4vjWM0vZ_laAXQ4sWr6QdUJ1F-pbmqN5cX2mx4nRVXq.jpg?size=200x200&quality=95&type=album",
+                            "type": "p",
+                            "width": 200
+                        },
+                        {
+                            "height": 320,
+                            "url": "https://sun1.userapi.com/sun1-86/s/v1/ig2/mpsO4DfBxOt8EXr1B4zC9xdnsHnpHZylH1jUBopT97IpmH7BQZPbgdKSNXI0IbHd6RKEJ5wudUJG59sDx0LFp_bG.jpg?size=320x320&quality=95&type=album",
+                            "type": "q",
+                            "width": 320
+                        },
+                        {
+                            "height": 510,
+                            "url": "https://sun1.userapi.com/sun1-86/s/v1/ig2/rHowZdKeR8aNBuTddlVpqaiBJ99RW0krkTb3n1mbZZwwIYlYrdqoh304Cp9v82dpRrqsxYUikR5AsAKGqrvWZsDy.jpg?size=510x510&quality=95&type=album",
+                            "type": "r",
+                            "width": 510
+                        }
+                    ],
+                    "text": "",
+                    "user_id": 100
+                }
+            },
+            {
+                "type": "photo",
+                "photo": {
+                    "album_id": -7,
+                    "date": 1663748700,
+                    "id": 457873617,
+                    "owner_id": -112510789,
+                    "access_key": "8c5493b4d767486c9a",
+                    "sizes": [
+                        {
+                            "height": 75,
+                            "url": "https://sun1.userapi.com/sun1-24/s/v1/ig2/rKaVIrP2scg6dXrv9jAS0MoqKF11JlUTWXzqlkEjyYYP_WuCQgAhsBT7xeazFzXwah0q27v9JA1X8ZUkFqAFUMC9.jpg?size=75x75&quality=95&type=album",
+                            "type": "s",
+                            "width": 75
+                        },
+                        {
+                            "height": 130,
+                            "url": "https://sun1.userapi.com/sun1-24/s/v1/ig2/1zgR6zxw7LKeibUbXfzvPLVddgmcLC2QLbCE_aaLOzgZjWKk7oOE6TUw0Q8wqZxBL8MfisKnGUj2KitobeIFXTJM.jpg?size=130x130&quality=95&type=album",
+                            "type": "m",
+                            "width": 130
+                        },
+                        {
+                            "height": 604,
+                            "url": "https://sun1.userapi.com/sun1-24/s/v1/ig2/yXHwDtqwboOqa2Bo1_KOsNBvh9ELB-hCoeT7ttq7SV8Q551qH1Ayf94xRo8ecpl4FUoYo5hpOEPEBtefj89NR1pu.jpg?size=604x604&quality=95&type=album",
+                            "type": "x",
+                            "width": 604
+                        },
+                        {
+                            "height": 807,
+                            "url": "https://sun1.userapi.com/sun1-24/s/v1/ig2/IQlEtLDfq_oJ3wZIJwuBD2LbRzPjvinDkoQCWFFoN6iLOvhn138u8g7cQwdDI2ffQrDJB9ySR173JCyMzvTADAxi.jpg?size=807x807&quality=95&type=album",
+                            "type": "y",
+                            "width": 807
+                        },
+                        {
+                            "height": 1080,
+                            "url": "https://sun1.userapi.com/sun1-24/s/v1/ig2/QkhDy7FurxI3JnJ-J-8NQ5jtxJ0gbviJT9_2PS4SPwZlwYtyg1cU2v3q5wk-3LMGdqDFKGTuNBphlwUsucdDaird.jpg?size=1080x1080&quality=95&type=album",
+                            "type": "z",
+                            "width": 1080
+                        },
+                        {
+                            "height": 130,
+                            "url": "https://sun1.userapi.com/sun1-24/s/v1/ig2/1zgR6zxw7LKeibUbXfzvPLVddgmcLC2QLbCE_aaLOzgZjWKk7oOE6TUw0Q8wqZxBL8MfisKnGUj2KitobeIFXTJM.jpg?size=130x130&quality=95&type=album",
+                            "type": "o",
+                            "width": 130
+                        },
+                        {
+                            "height": 200,
+                            "url": "https://sun1.userapi.com/sun1-24/s/v1/ig2/0wZ_5prUDI46w6xeg8j7lrhCS50W4Iupo_6E06Oj5UexH-td9r1Q0D26RjO6xxAG9iYG6kWsoHQdVn8bfrTxHJ7K.jpg?size=200x200&quality=95&type=album",
+                            "type": "p",
+                            "width": 200
+                        },
+                        {
+                            "height": 320,
+                            "url": "https://sun1.userapi.com/sun1-24/s/v1/ig2/FnGjKrkss0PVCi22Z2pMRePtl3M2BSMYmUOItlpazfhH_UbJWgPatYJLEweF5Qm7OMoA_g5QfIXTB2Jj7WZJlLxs.jpg?size=320x320&quality=95&type=album",
+                            "type": "q",
+                            "width": 320
+                        },
+                        {
+                            "height": 510,
+                            "url": "https://sun1.userapi.com/sun1-24/s/v1/ig2/NhNG7YBrRm2zErl7aolqSpavNBAPi2ZClZmhSerQigszrwMB-nZdjYCHIDyIedPLYkiy5DfUoqbdB4gtbY_PQ0kx.jpg?size=510x510&quality=95&type=album",
+                            "type": "r",
+                            "width": 510
+                        }
+                    ],
+                    "text": "",
+                    "user_id": 100
+                }
+            },
+            {
+                "type": "photo",
+                "photo": {
+                    "album_id": -7,
+                    "date": 1663748700,
+                    "id": 457873618,
+                    "owner_id": -112510789,
+                    "access_key": "7fc7cb5949ce65dd88",
+                    "sizes": [
+                        {
+                            "height": 42,
+                            "url": "https://sun1.userapi.com/sun1-27/s/v1/ig2/DC9kgB8fJ7VVxCdBEKDXzPN5FDHaMZzWBsPRKpTh20VtOfWlFM4cNljiiIa3BvCqO2n6N2wgx68lEW8pLG5fHM5U.jpg?size=75x42&quality=95&type=album",
+                            "type": "s",
+                            "width": 75
+                        },
+                        {
+                            "height": 73,
+                            "url": "https://sun1.userapi.com/sun1-27/s/v1/ig2/bj2SmKhUTFhj2oMw2Kdmlh18ZLhORGYSzwNJq4HzXTanWvCbiNrmQ2DMP0-NYawK672msiX3FCpavrl5grIBD5HE.jpg?size=130x73&quality=95&type=album",
+                            "type": "m",
+                            "width": 130
+                        },
+                        {
+                            "height": 340,
+                            "url": "https://sun1.userapi.com/sun1-27/s/v1/ig2/MwfwgYuCbmvwSuQPEQ7u6i0IjZdYq1mMBDjDGl6vS7SXM8SjPHz0OACM2tqChPfEynmLdL0XhPzgFCOKW5y4Jbaw.jpg?size=604x340&quality=95&type=album",
+                            "type": "x",
+                            "width": 604
+                        },
+                        {
+                            "height": 454,
+                            "url": "https://sun1.userapi.com/sun1-27/s/v1/ig2/ct83tTNQJs-FJpKRh5YsS5iq4thMxLNx63ljO5yCW6NPO9zeD3N6o0LszL41r7IfYkP9uC4qEN7m4FFYLtiCWU_z.jpg?size=807x454&quality=95&type=album",
+                            "type": "y",
+                            "width": 807
+                        },
+                        {
+                            "height": 720,
+                            "url": "https://sun1.userapi.com/sun1-27/s/v1/ig2/yaU3pdApZZvBljDzmm63y9S-MuUvGp4lF3INQBS9Z611RRMmHi9W1aDOjeyFXOL3gbk7QQ82PUl-WEar9ZYOfXiE.jpg?size=1280x720&quality=95&type=album",
+                            "type": "z",
+                            "width": 1280
+                        },
+                        {
+                            "height": 87,
+                            "url": "https://sun1.userapi.com/sun1-27/s/v1/ig2/6u5JZutTA0Qb3fzBYJFZC1OzbZaFcylVATU7bt_jSoXmdImseUSVEX0oXuPtyqMQSXAOa7vOMjWEt7o82W1COPK3.jpg?size=130x87&quality=95&crop=102,0,1076,720&type=album",
+                            "type": "o",
+                            "width": 130
+                        },
+                        {
+                            "height": 133,
+                            "url": "https://sun1.userapi.com/sun1-27/s/v1/ig2/M82T1RsLxDOmxoaWPMCcvesvf_E49JI1PLkYfPYGqEZH4To-AchL6uwWUFzfDymSv0WSY-dKNOjjr2nWdkg4BY4p.jpg?size=200x133&quality=95&crop=98,0,1083,720&type=album",
+                            "type": "p",
+                            "width": 200
+                        },
+                        {
+                            "height": 213,
+                            "url": "https://sun1.userapi.com/sun1-27/s/v1/ig2/eZ4jtAJdvKp079Ar9J5OZCOCQXvu774vdnty8UFjRO441X_DlWxrAC02rsIPmHOpyQ3fDu948Is8Bu2L0pqMCh3U.jpg?size=320x213&quality=95&crop=99,0,1082,720&type=album",
+                            "type": "q",
+                            "width": 320
+                        },
+                        {
+                            "height": 340,
+                            "url": "https://sun1.userapi.com/sun1-27/s/v1/ig2/8_NEov8dF8C_Di4HVR-Fmwsq0VDKgAsOGC7RgYnbYr27tuKLy6p2pu4IdrTw-3MaKNzYnaoJlm6V6zYoB5voGoGw.jpg?size=510x340&quality=95&crop=100,0,1080,720&type=album",
+                            "type": "r",
+                            "width": 510
+                        }
+                    ],
+                    "text": "",
+                    "user_id": 100
+                }
+            }
+        ],
+        "post_source": {
+            "type": "vk"
+        },
+        "comments": {
+            "can_post": 1,
+            "count": 911,
+            "groups_can_post": true
+        },
+        "likes": {
+            "can_like": 1,
+            "count": 367,
+            "user_likes": 0,
+            "can_publish": 1
+        },
+        "reposts": {
+            "count": 1791,
+            "user_reposted": 0
+        },
+        "views": {
+            "count": 234472
+        },
+        "ads_easy_promote": {
+            "type": 2,
+            "text": "Что-то пошло не так.",
+            "label_text": "",
+            "button_text": "",
+            "is_ad_not_easy": false
+        },
+        "activity": {
+            "comment": {
+                "id": 7209418,
+                "from_id": 5515174,
+                "date": 1663748811,
+                "text": "",
+                "attachments": [
+                    {
+                        "type": "photo",
+                        "photo": {
+                            "album_id": -8,
+                            "date": 1663748811,
+                            "id": 457873624,
+                            "owner_id": -112510789,
+                            "access_key": "0b5bb3a19762267fc6",
+                            "sizes": [
+                                {
+                                    "height": 75,
+                                    "url": "https://sun1.userapi.com/sun1-99/s/v1/ig2/cw-UdyNDi6wpoYwC7vYBHEIDxnLPOxHzLOmg-iMEtDUU27cS3U-kg7BsX9Xu2TQvH5Th8Bl4PqsmVz4PVZCYE-Ir.jpg?size=35x75&quality=95&type=album",
+                                    "type": "s",
+                                    "width": 35
+                                },
+                                {
+                                    "height": 130,
+                                    "url": "https://sun1.userapi.com/sun1-99/s/v1/ig2/b_bnu9jQhKGkIBLtFzC_dBsaVnQkDOKvVBrVNTuqQgaCsbzmgyFDc9TwXCBvVzZqZJfwLfsUYUGZLu5Nbms4Ncqc.jpg?size=60x130&quality=95&type=album",
+                                    "type": "m",
+                                    "width": 60
+                                },
+                                {
+                                    "height": 604,
+                                    "url": "https://sun1.userapi.com/sun1-99/s/v1/ig2/qouTCayeZLGEOD0NQpa7Ys_kZ2TV1Axdf4bwKYRKDdLoFz3SOHDuNdFyuiVA_FlyiJW5uZ9OZ8VpZ8D3M606rCZE.jpg?size=279x604&quality=95&type=album",
+                                    "type": "x",
+                                    "width": 279
+                                },
+                                {
+                                    "height": 807,
+                                    "url": "https://sun1.userapi.com/sun1-99/s/v1/ig2/mCjuAB9xuCsNCDb76IbtVXjh0Iw2iWo_DfT8GCeyTV7qE3J-eNjz46HlnM_5iSn_ubLMD6S7O6IJ1LQd66Cvi_zp.jpg?size=372x807&quality=95&type=album",
+                                    "type": "y",
+                                    "width": 372
+                                },
+                                {
+                                    "height": 1080,
+                                    "url": "https://sun1.userapi.com/sun1-99/s/v1/ig2/1HmYNA3y6yhZDAO5B-R0RGrmGKsXniI9roxO08rLm0j2OxKru9E9Gxp4gA6K4ZoDWRu2kKWG7dqC5hUK2OMFTrfr.jpg?size=498x1080&quality=95&type=album",
+                                    "type": "z",
+                                    "width": 498
+                                },
+                                {
+                                    "height": 1600,
+                                    "url": "https://sun1.userapi.com/sun1-99/s/v1/ig2/Fok7RvNM14JfHeIoLHRRkK0hfZOTzzdaLI6ThbZuoUGK6YwW3B4zDVrsh2QkRzc3xaZPnMWirE5r6z-9gZNv61k1.jpg?size=738x1600&quality=95&type=album",
+                                    "type": "w",
+                                    "width": 738
+                                },
+                                {
+                                    "height": 282,
+                                    "url": "https://sun1.userapi.com/sun1-99/s/v1/ig2/2l44ZkZHFSDWONr7CkSCingCaChf-9h2bQiG8LaybfsMBrThr1O5Zlmlg1Lkg2eQgwTaMZvOhUAoxAU5p1kI8Hvp.jpg?size=130x282&quality=95&type=album",
+                                    "type": "o",
+                                    "width": 130
+                                },
+                                {
+                                    "height": 434,
+                                    "url": "https://sun1.userapi.com/sun1-99/s/v1/ig2/pubjqYIJ8XrkbpbcPLSzdfQYyfTWb5gYA0-CaSnkJ5oCqN39r-JtSG7Zp01aDtjaFI4Ghz_twnXouEhL4KokOih6.jpg?size=200x434&quality=95&type=album",
+                                    "type": "p",
+                                    "width": 200
+                                },
+                                {
+                                    "height": 694,
+                                    "url": "https://sun1.userapi.com/sun1-99/s/v1/ig2/QhY7kiHFBoYNOHnn-6MbEj8JUOyWo5myCV3f0YMKYqZbDItp4tw3mnWu5mtC320ob7teVy9GG6pqK4-OQ9Ny4nBJ.jpg?size=320x694&quality=95&type=album",
+                                    "type": "q",
+                                    "width": 320
+                                },
+                                {
+                                    "height": 900,
+                                    "url": "https://sun1.userapi.com/sun1-99/s/v1/ig2/XNoaxO9OqzTDgRaPpqc1x9atGISbeGPBv6sI8XJYgKyNcTnaHlEgWoWmZPnELAGd0LfWK8hD-osbPZz3PZTh6kiw.jpg?size=510x900&quality=95&crop=0,0,738,1302&type=album",
+                                    "type": "r",
+                                    "width": 510
+                                }
+                            ],
+                            "text": "",
+                            "user_id": 5515174
+                        }
+                    }
+                ],
+                "likes": {
+                    "can_like": 1,
+                    "count": 47,
+                    "user_likes": 0
+                }
+            },
+            "type": "comment"
+        },
+        "hash": "WcnzMy1y8ABIPFNXgOo_9p9oSrme"
+    },
+    {
+        "id": 7208122,
+        "from_id": -112510789,
+        "owner_id": -112510789,
+        "date": 1663743858,
+        "type": "post",
+        "marked_as_ads": 0,
+        "post_type": "post",
+        "text": "Также Владимир Путин заявил: \n\n— Новое крупномасштабное наступление на Донбассе было неизбежно, а потом и атака на Крым. И решение об упреждающей операции было необходимо.\n\n— Украинский народ превратили в пушечное мясо. \n\n— К России обратились с просьбой поддержать референдумы.\n\n— Мы сделаем всё, чтобы выбор жителей Херсонской и Запорожской области был сделан. \n\n— Луганская Народная Республика полностью очищена от неонацистов. Бои в ДНР продолжаются.\n\n— Мобилизационные мероприятия начнутся сегодня.",
+        "attachments": [
+            {
+                "type": "video",
+                "video": {
+                    "access_key": "e64ba816173af210bd",
+                    "can_comment": 1,
+                    "can_like": 1,
+                    "can_repost": 1,
+                    "can_subscribe": 1,
+                    "can_add_to_faves": 1,
+                    "can_add": 1,
+                    "comments": 1661,
+                    "date": 1663743718,
+                    "description": "",
+                    "duration": 56,
+                    "photo_130": "https://i.mycdn.me/getVideoPreview?id=2816994642629&idx=8&type=39&tkn=12csLcMiLKNcaPT4yKuEvWn6Zs4&fn=vid_s",
+                    "photo_320": "https://i.mycdn.me/getVideoPreview?id=2816994642629&idx=8&type=39&tkn=12csLcMiLKNcaPT4yKuEvWn6Zs4&fn=vid_l",
+                    "photo_800": "https://i.mycdn.me/getVideoPreview?id=2816994642629&idx=8&type=39&tkn=12csLcMiLKNcaPT4yKuEvWn6Zs4&fn=vid_x",
+                    "photo_1280": "https://i.mycdn.me/getVideoPreview?id=2816994642629&idx=8&type=39&tkn=12csLcMiLKNcaPT4yKuEvWn6Zs4&fn=vid_w",
+                    "first_frame_130": "https://i.mycdn.me/getVideoPreview?id=2816994642629&idx=0&type=39&tkn=Bp18TzPzUsuHST9hWmfZom671YQ&fn=vid_sm",
+                    "first_frame_160": "https://i.mycdn.me/getVideoPreview?id=2816994642629&idx=0&type=39&tkn=Bp18TzPzUsuHST9hWmfZom671YQ&fn=vid_d",
+                    "first_frame_320": "https://i.mycdn.me/getVideoPreview?id=2816994642629&idx=0&type=39&tkn=Bp18TzPzUsuHST9hWmfZom671YQ&fn=vid_md",
+                    "first_frame_800": "https://i.mycdn.me/getVideoPreview?id=2816994642629&idx=0&type=39&tkn=Bp18TzPzUsuHST9hWmfZom671YQ&fn=vid_f",
+                    "first_frame_1280": "https://i.mycdn.me/getVideoPreview?id=2816994642629&idx=0&type=39&tkn=Bp18TzPzUsuHST9hWmfZom671YQ",
+                    "width": 852,
+                    "height": 480,
+                    "id": 456302401,
+                    "owner_id": -112510789,
+                    "title": "Видео от Mash | Мэш",
+                    "track_code": "video_fec9de4fgQ2I8D_3_ukKtz9KwhKlOxJstOuIdc5dClCR0CD9gSCwLJTxOf3yhw2yN0usFKINIVyG37hEyiprPP3QMtCwEYI",
+                    "views": 1221736
+                }
+            }
+        ],
+        "post_source": {
+            "type": "vk"
+        },
+        "comments": {
+            "can_post": 1,
+            "count": 1668,
+            "groups_can_post": true
+        },
+        "likes": {
+            "can_like": 1,
+            "count": 2730,
+            "user_likes": 0,
+            "can_publish": 1
+        },
+        "reposts": {
+            "count": 1457,
+            "user_reposted": 0
+        },
+        "views": {
+            "count": 521555
+        },
+        "ads_easy_promote": {
+            "type": 2,
+            "text": "Что-то пошло не так.",
+            "label_text": "",
+            "button_text": "",
+            "is_ad_not_easy": false
+        },
+        "hash": "VsYvm0AgrDz-tcoltic3NmJEonPN"
+    },
+    {
+        "id": 7207891,
+        "from_id": -112510789,
+        "owner_id": -112510789,
+        "date": 1663743006,
+        "type": "post",
+        "marked_as_ads": 0,
+        "post_type": "post",
+        "text": "\"Для защиты нашей страны и народа, мы используем все имеющиеся у нас средства\" \n\nВладимир Путин заявил о частичной мобилизации в РФ.\n\n— Призывать будут только тех, кто состоит в запасе и, прежде всего, тех, кто проходил службу в рядах вооружённых сил. \n\n— Призывники будут проходить обязательную подготовку. \n\n— Статус добровольцев будет пересмотрен. \n\n— Все вопросы материального, ресурсного и финансового обеспечения предприятий должны быть решены правительствам незамедлительно.",
+        "attachments": [
+            {
+                "type": "photo",
+                "photo": {
+                    "album_id": -7,
+                    "date": 1663743006,
+                    "id": 457873510,
+                    "owner_id": -112510789,
+                    "access_key": "f23c7994df83550a44",
+                    "post_id": 7207891,
+                    "sizes": [
+                        {
+                            "height": 72,
+                            "url": "https://sun1.userapi.com/sun1-55/s/v1/ig2/mtQQJ4BKgwobzqsngVSbkX4XNz-uBvLgZmGkx5qRZbWmuiUBTeA9-qD9uQCfD0DhSpp9wfTNLi-Eumz3qg9k257A.jpg?size=130x72&quality=96&type=album",
+                            "type": "m",
+                            "width": 130
+                        },
+                        {
+                            "height": 87,
+                            "url": "https://sun1.userapi.com/sun1-55/s/v1/ig2/Aa_zETJl2rH_NwJxuMyG-CsJa5khL99Pu0w-BAxwMZCh3s7r9VfC62-3k-iT7fO61E0vj4LYhf-LeHPFCAvo1OUv.jpg?size=130x87&quality=96&crop=110,0,1059,709&type=album",
+                            "type": "o",
+                            "width": 130
+                        },
+                        {
+                            "height": 133,
+                            "url": "https://sun1.userapi.com/sun1-55/s/v1/ig2/ZjsEhu7xPbNNb9K1egcm5YgW6E5j3LpL1Kaauq2aarBWUgokEJooH_lSSNtef_QUfxbj-v_ZCIL_pr1mYJqLRncO.jpg?size=200x133&quality=96&crop=107,0,1066,709&type=album",
+                            "type": "p",
+                            "width": 200
+                        },
+                        {
+                            "height": 213,
+                            "url": "https://sun1.userapi.com/sun1-55/s/v1/ig2/tNbVvPv8Lu5qQM9sVzYgdC1MHpHlrVOFBDUxucJPpu6LESRRCsLDfgIvtPM3ek0Us9uI32uyWcosYbAtb4YpUfR2.jpg?size=320x213&quality=96&crop=107,0,1065,709&type=album",
+                            "type": "q",
+                            "width": 320
+                        },
+                        {
+                            "height": 340,
+                            "url": "https://sun1.userapi.com/sun1-55/s/v1/ig2/mSe2XNHAyKMPY7SqQEJXKJLzLlWb5pTp_mGnOwIqYxl_5KkbxpbMvtT_aP2ZQ-oimaehe89UQWrACeD9bqDwZDgO.jpg?size=510x340&quality=96&crop=108,0,1063,709&type=album",
+                            "type": "r",
+                            "width": 510
+                        },
+                        {
+                            "height": 42,
+                            "url": "https://sun1.userapi.com/sun1-55/s/v1/ig2/a0fhhAx8LpeWp_DDDxXnUBKW8hjb22fgNhouwrsLoeZKVHH2dvafoxWgupX8DM8NtA2J_hRrcnq8f-ZD6QiNZ5t3.jpg?size=75x42&quality=96&type=album",
+                            "type": "s",
+                            "width": 75
+                        },
+                        {
+                            "height": 335,
+                            "url": "https://sun1.userapi.com/sun1-55/s/v1/ig2/Ovxjc_qmoYVgUFQrbfVJpKqilOgvczLRavRA_vjdSF8v5rPnahaAWJzKVUP1QB_EalEN0c-ZYIBPzWjeucsLoWtl.jpg?size=604x335&quality=96&type=album",
+                            "type": "x",
+                            "width": 604
+                        },
+                        {
+                            "height": 447,
+                            "url": "https://sun1.userapi.com/sun1-55/s/v1/ig2/Ew9Og0VqnRulStJGzN88gFIS3RorNK0MtTZdfBLHM9JmV2c3BZAyJC8_l6zbqJr743A8SCinU4Eueu7WuooTGup7.jpg?size=807x447&quality=96&type=album",
+                            "type": "y",
+                            "width": 807
+                        },
+                        {
+                            "height": 709,
+                            "url": "https://sun1.userapi.com/sun1-55/s/v1/ig2/agJvzNs67j5j0slezlry8DnJdagMUOwP0AxeYemIpAgVbJeNFWxnu1sMRt4JGjv6lYFsnHnpJ9awt1OqzGJ-m3Ak.jpg?size=1280x709&quality=96&type=album",
+                            "type": "z",
+                            "width": 1280
+                        }
+                    ],
+                    "text": "",
+                    "user_id": 100
+                }
+            }
+        ],
+        "post_source": {
+            "type": "vk"
+        },
+        "comments": {
+            "can_post": 1,
+            "count": 1258,
+            "groups_can_post": true
+        },
+        "likes": {
+            "can_like": 1,
+            "count": 686,
+            "user_likes": 0,
+            "can_publish": 1
+        },
+        "reposts": {
+            "count": 1531,
+            "user_reposted": 0
+        },
+        "views": {
+            "count": 208022
+        },
+        "ads_easy_promote": {
+            "type": 2,
+            "text": "Что-то пошло не так.",
+            "label_text": "",
+            "button_text": "",
+            "is_ad_not_easy": false
+        },
+        "hash": "qnyk38uyxaq4Xl1d9UtPoa3PWCwC"
+    },
+    {
+        "id": 7207568,
+        "from_id": -112510789,
+        "owner_id": -112510789,
+        "date": 1663738845,
+        "type": "post",
+        "marked_as_ads": 0,
+        "post_type": "post",
+        "text": "Сергея Бурунова экстренно госпитализировали с ковидом в состоянии средней тяжести.\n\nАктёра доставили в приёмное отделение днём 20 сентября. Из симптомов: \n\n— кашель с мокротой;\n— одышка;\n— боль в горле, голове и мышцах.\n\nПо нашей информации, он заболел ещё 14 числа — мазок брали на следующий день. Несмотря на положительный результат, Сергей Александрович остался дома. Вскоре ему стало хуже. Медики сделали ЭКГ — показатели в норме. Остальные анализы в работе. \n\nДо госпитализации звезды сериала \"Полицейский с Рублёвки\" данные компьютерной томографии показывали, что с лёгкими всё ок.",
+        "attachments": [
+            {
+                "type": "photo",
+                "photo": {
+                    "album_id": -7,
+                    "date": 1663738844,
+                    "id": 457873492,
+                    "owner_id": -112510789,
+                    "access_key": "884efe79d253ef53cf",
+                    "post_id": 7207568,
+                    "sizes": [
+                        {
+                            "height": 85,
+                            "url": "https://sun1.userapi.com/sun1-18/s/v1/ig2/7rxzigkD6FNuWZ1ArqQcMhonkWhcmq-6jTFXwxbypjQhBaweGSotSbCLyFuSvOk3msiH7oppb1feHdzxto_fpBXm.jpg?size=130x85&quality=96&type=album",
+                            "type": "m",
+                            "width": 130
+                        },
+                        {
+                            "height": 87,
+                            "url": "https://sun1.userapi.com/sun1-18/s/v1/ig2/yzYJo-CtrT9KYBEmwXkx21pdZCjKui7ANmn8hLqjC5UaszHlbtmTJ7QuvI-ICnjVdLolRVdKM431C1QVJ2P8TDTO.jpg?size=130x87&quality=96&crop=11,0,1177,788&type=album",
+                            "type": "o",
+                            "width": 130
+                        },
+                        {
+                            "height": 133,
+                            "url": "https://sun1.userapi.com/sun1-18/s/v1/ig2/hoNQngOepbT4hk5kZ78_TM1xPQLQTXsKs7l5oc3_2xXlp1w2qiWEhjziTnVu7_CZQMsklZl4rhoukKlwF6l3Cwi-.jpg?size=200x133&quality=96&crop=7,0,1185,788&type=album",
+                            "type": "p",
+                            "width": 200
+                        },
+                        {
+                            "height": 213,
+                            "url": "https://sun1.userapi.com/sun1-18/s/v1/ig2/q4V9JYcagLnCCkOkPI-LjP8EuQKDgwwtgFtowdTBQQScEHAWW9XtD7t0-d7O-o-vT_4FcK31DMCzsOsI589dWSH2.jpg?size=320x213&quality=96&crop=8,0,1184,788&type=album",
+                            "type": "q",
+                            "width": 320
+                        },
+                        {
+                            "height": 340,
+                            "url": "https://sun1.userapi.com/sun1-18/s/v1/ig2/nQg7wsOxp-vijYA7c7b9iwUScJcNM3gTuwfU-nfQkUr-ewdGY7z7a5GKysg-M0WNBlYURh8em2RUqp-C8bjK63Yy.jpg?size=510x340&quality=96&crop=9,0,1182,788&type=album",
+                            "type": "r",
+                            "width": 510
+                        },
+                        {
+                            "height": 49,
+                            "url": "https://sun1.userapi.com/sun1-18/s/v1/ig2/jQnn1WUwD_JtBD__M4JwjuOrzOKLQt1sOoARM9ZEs6a8vCe-eDAbp5KikMjbXobWdLD0up5kytZDfOor5X2pQlo7.jpg?size=75x49&quality=96&type=album",
+                            "type": "s",
+                            "width": 75
+                        },
+                        {
+                            "height": 397,
+                            "url": "https://sun1.userapi.com/sun1-18/s/v1/ig2/7K6Nv4rh6CxzfXCo4nviLOkpJrd_RUXyAnJ8JCPY2K4DuAASQ4oiy3ZMmtcvAHtGv9UxCHhDLmF1sTbshjulSXye.jpg?size=604x397&quality=96&type=album",
+                            "type": "x",
+                            "width": 604
+                        },
+                        {
+                            "height": 530,
+                            "url": "https://sun1.userapi.com/sun1-18/s/v1/ig2/xxqkb2Efn-_VCgBrBVAGXqBacXGLRaq0IQ0-4PJznXrOv68WvOVp8ulKducttekA9bASJvQB03ZkI8ySbY8c5EJb.jpg?size=807x530&quality=96&type=album",
+                            "type": "y",
+                            "width": 807
+                        },
+                        {
+                            "height": 788,
+                            "url": "https://sun1.userapi.com/sun1-18/s/v1/ig2/BGxM-B821XHs212IcmFMggqJmhyn8vABDccnfEjR9tRSrJuVqptsfszTLTlMgp280yuLjeAlygkugnvXof9xx8un.jpg?size=1200x788&quality=96&type=album",
+                            "type": "z",
+                            "width": 1200
+                        }
+                    ],
+                    "text": "",
+                    "user_id": 100
+                }
+            }
+        ],
+        "post_source": {
+            "type": "vk"
+        },
+        "comments": {
+            "can_post": 1,
+            "count": 304,
+            "groups_can_post": true
+        },
+        "likes": {
+            "can_like": 1,
+            "count": 1104,
+            "user_likes": 0,
+            "can_publish": 1
+        },
+        "reposts": {
+            "count": 1171,
+            "user_reposted": 0
+        },
+        "views": {
+            "count": 348281
+        },
+        "ads_easy_promote": {
+            "type": 2,
+            "text": "Что-то пошло не так.",
+            "label_text": "",
+            "button_text": "",
+            "is_ad_not_easy": false
+        },
+        "caption": {
+            "action_title": "Перейти",
+            "action_url": "https://vk.com/covid19",
+            "text": "Узнайте больше о COVID-19",
+            "type": "custom"
+        },
+        "hash": "f0Q7p9t3Yrfei8SeGzLLwv9jbVmt"
+    },
+    {
+        "id": 7207445,
+        "from_id": -112510789,
+        "owner_id": -112510789,
+        "date": 1663735177,
+        "type": "post",
+        "marked_as_ads": 0,
+        "post_type": "post",
+        "text": "Ловите наш дайджест от Полины с самыми топовыми новостями! \nМы расскажем, за что в России преследуют Хаги-Ваги (и кто это такой, если вы вдруг не знали).\nКого предал Maroon 5, и что мы об этом думаем. \nУзнаете про массовые протесты в Иране из-за убийства молодой женщины и причём там хиджаб?\nИ ещё: россияне снова получат загранпаспорта на 10 лет, а ДНР, ЛНР и Херсон и Запорожье уже готовятся к референдумам.\n\nБегом смотреть!",
+        "attachments": [
+            {
+                "type": "video",
+                "video": {
+                    "access_key": "c3c7eafd15ca469deb",
+                    "can_comment": 1,
+                    "can_like": 1,
+                    "can_repost": 1,
+                    "can_subscribe": 1,
+                    "can_add_to_faves": 1,
+                    "can_add": 1,
+                    "comments": 5,
+                    "date": 1663735065,
+                    "description": "Телеграм-канал: https://t.me/breakingmash\nЮтуб-канал: https://www.youtube.com/c/BreakingMash\nВконтакте: https://vk.com/breakingmash\nФейсбук: https://www.facebook.com/breakingmash/\nОдноклассники: https://ok.ru/group/53727953748034",
+                    "duration": 384,
+                    "photo_130": "https://sun1-30.userapi.com/uybRnHpa87WYkn6JK92xT8ndMRHOSzqX-7CvUw/N8Wcq8UMAEU.jpg",
+                    "photo_320": "https://sun1-30.userapi.com/tbyvrDq7rAC1EaP58rtiatLTR21Q6WrPAgXTIQ/QmPU6PBk4qs.jpg",
+                    "photo_800": "https://sun1-96.userapi.com/ijxo9Jgc605DRhxT81vDJP2eOJwpwh9kV94wXQ/Lsxf_EunKqI.jpg",
+                    "photo_1280": "https://sun1-98.userapi.com/Ka5VYdiG75tvWbjN8FQs4MEtXIxE8KVBe24Jyw/orduf3CgD7Q.jpg",
+                    "first_frame_130": "https://i.mycdn.me/getVideoPreview?id=2763234282115&idx=0&type=39&tkn=X8F6GdMV0VlWg5hMcmFQwUU61qw&fn=vid_sm",
+                    "first_frame_160": "https://i.mycdn.me/getVideoPreview?id=2763234282115&idx=0&type=39&tkn=X8F6GdMV0VlWg5hMcmFQwUU61qw&fn=vid_d",
+                    "first_frame_320": "https://i.mycdn.me/getVideoPreview?id=2763234282115&idx=0&type=39&tkn=X8F6GdMV0VlWg5hMcmFQwUU61qw&fn=vid_md",
+                    "first_frame_800": "https://i.mycdn.me/getVideoPreview?id=2763234282115&idx=0&type=39&tkn=X8F6GdMV0VlWg5hMcmFQwUU61qw&fn=vid_f",
+                    "first_frame_1280": "https://i.mycdn.me/getVideoPreview?id=2763234282115&idx=0&type=39&tkn=X8F6GdMV0VlWg5hMcmFQwUU61qw",
+                    "width": 1920,
+                    "height": 1080,
+                    "id": 456302397,
+                    "owner_id": -112510789,
+                    "title": "Хаги-Ваги проверяют | Maroon 5 отменили | Убийство из-за хиджаба || Mash дайджест",
+                    "track_code": "video_4d394749w3cTDBnHnCkAYMd9jeNUYqIQDmvcqPXtqlak7seegZ3yVg8NH82QRwdlz3Pm41RUkSA8WOWf8ZrLOsju1bOwrMA",
+                    "repeat": 1,
+                    "views": 206509
+                }
+            }
+        ],
+        "post_source": {
+            "type": "vk"
+        },
+        "comments": {
+            "can_post": 1,
+            "count": 18,
+            "groups_can_post": true
+        },
+        "likes": {
+            "can_like": 1,
+            "count": 50,
+            "user_likes": 0,
+            "can_publish": 1
+        },
+        "reposts": {
+            "count": 16,
+            "user_reposted": 0
+        },
+        "views": {
+            "count": 161783
+        },
+        "ads_easy_promote": {
+            "type": 2,
+            "text": "Что-то пошло не так.",
+            "label_text": "",
+            "button_text": "",
+            "is_ad_not_easy": false
+        },
+        "hash": "buWlwI0m0loUVW6o44IdQcvqlw8x"
+    }
+]

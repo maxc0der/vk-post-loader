@@ -29,7 +29,7 @@ class VK:
     Methods:
     _________________
     get(method, request, version='5.86')
-    get answer from VK API
+    Function that receives response from methods
 
     get_posts_filtered_by_date(source_id, start_date, end_date):
     Return json-object of posts from source_id with date between start_date and end_date

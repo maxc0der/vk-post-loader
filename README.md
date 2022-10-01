@@ -17,7 +17,7 @@
 Запустите main.py, передав в качестве аргумента следующие параметры:
  
 
-     python main.py <TOKEN> <SOURCE_ID> --st=<START_DATE> --fr=<END_DATE> --out=<OUT_PATH>
+     python main.py <SOURCE_ID> --st=<START_DATE> --fr=<END_DATE> --out=<OUT_PATH>
     
  SOURCE_ID - идентификатор пользователя или сообщества
  START_DATE, END_DATE - начальная и конечная дата в формате YYYYMMDD
@@ -26,7 +26,7 @@
 
 Например:
 
-     python main.py <TOKEN> -112510789 -f=20220921 -t=20220921 --out=results.txt
+     python main.py -112510789 -f=20220921 -t=20220921 --out=results.txt
 
 > Данная команда запишет json-объекты публикаций сообщества MASH за 21 сентября 2022 года
 

@@ -46,3 +46,4 @@ to_time = date_formatter(str(args.from_date + 1))
 with open(args.out, "w", encoding="utf-8") as results_file:
     result = vkapi.get_posts_filtered_by_date(args.source_id, from_time, to_time)
     json.dump(result, results_file,  indent=4, ensure_ascii=False)
+    print(json.dumps(result, indent=4, ensure_ascii=False))

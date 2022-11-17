@@ -1,0 +1,8 @@
+{
+  "type": "task",
+  "sub_type": "extractor.history",
+  "source": "vk",
+  "channel": "-112510789",
+  "day_from": 20221011,
+  "day_to": 20221012
+}
